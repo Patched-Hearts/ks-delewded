@@ -7540,221 +7540,9 @@ ssh "It's not like that was my favorite restaurant… I have others I like. I mi
 
 his "Really…"
 
-show shizu adjust_frown_cas_close
-with charachange
-
-ssh "This chair is so hard. I want to sit on the bed."
-
-"Motioning to her to go ahead, I wait for her to get off the chair and take her place when she does. Though I didn't intend for it to be, she finds it amusing."
-
-show shizu behind_smile_cas_close
-with charachange
-
-stop music fadeout 5.0
-
-ssh "Close your eyes."
-
-his "Why?"
-
-show shizu adjust_smug_cas_close
-with charachange
-
-ssh "It's a surprise."
-
-show black
-with shuteye
-
-"I decide to humor her and close them. I can feel her leaning over me, and suddenly, something soft and moist touches my lips. My body tenses up in surprise. Fortunately, not as awkward a reaction as I could have made."
-
-"It was just a quick peck, and I almost think that's the end of it, but then she kisses me again, more deeply this time. Her hands slide onto my shoulders, up to my neck, and then back down again. Then across my shoulders and down my arms."
-
-"I can feel the weight of her body on my legs, and the eroticism of the situation isn't lost on me. At this point, I'm ready to try and open my eyes just a crack, but as if expecting it, she puts her fingers on my eyelids."
-
-play sound sfx_rustling
-
-"Seconds later, something ties my hands together at the wrists, and I panic, not knowing what to make of this. My first thought is to ask Shizune what she's thinking. Even though she can't hear me, I'm sure she gets the gist of it."
-
-"She won't let go of my hands, tracing her fingers over them, from the lines of my palms, over my knuckles, and to my wrists."
-
-scene evh shizune_hcg_tied_stare:
-    yalign 0.0 xalign 1.0 subpixel True
-    easein 6.0 xalign 0.5 zoom 0.5
-    truecenter
-    zoom 1.0
-    "evh shizune_hcg_tied_stare_small"
-with whiteout
-
-play music music_heart fadein 5.0
-
-hi "Hey, what are you doing? What's this?"
-
-"Or course, with my hands tied behind my back, I might as well be gagged. A part of me can't help but think that this is what she intended."
-
-scene evh shizune_hcg_tied_smile_small
-with charachange
-
-"As if reading my thoughts, a mischievous expression lights up her face, but her blushing doesn't fade. In fact, it only deepens when our eyes meet."
-
-"Embarrassed, she leans deeper into our partial embrace, hiding her face by burying it in my shoulder and neck. Her hair is soft and tickles me, and I let out a laugh knowing that she won't hear me; won't be offended."
-
 label en_delewd_S22h:
-scene evh shizune_hcg_tied_blush_small
-with charachange
-
-"Shizune's hands move downwards to the fly of my pants, covered by her skirt. Her hands disappear from view, only to jerk back on touching my erection. Shizune almost falls off me from nervousness. It's like she didn't expect it to be there."
-
-"The sudden display of naivety is the starkest contrast yet to how forward she has been so far, and I find it amusing. Suddenly, she seems very immature again. A high-school girl playing the role of a more aggressive woman."
-
-scene evh shizune_hcg_tied_blush:
-    yalign 0.0 xalign 0.8
-show evh_hi shizune_hcg_tied_hisao2:
-    yalign 0.0 xalign 0.8
-with flash
-
-"She pokes at my penis curiously with her index finger, her face reddening as she runs the rest of her fingers down its underside. Her movements are soft and curious, and they belie the embarrassed look on her face."
-
-show evh shizune_hcg_tied_stare
-hide evh_hi
-with charachange
-
-"It's likely Shizune is as nervous as I am, so I'm a bit relieved when she stops her exploratory prodding, but then I think about what's next to come."
-
-"She might try and unbutton my shirt. Who knows what she would say, seeing the scar on my chest. I'm still self-conscious about it, and I can imagine the concern on her face on seeing it; the tenting of her fingers in thought."
-
-
-"Luckily, in this position, she couldn't take off my sweater without ripping it off me. The fear fades from my mind. Now, I'm only experiencing a strange, uncomfortable mix of anticipation and nervousness."
-
-show evh shizune_hcg_tied_blush
-with charachange
-
-"A newfound lightness on my knees brings me back to reality, and I can see Shizune standing on the tips of her toes to slide her underwear down her thighs. When she sees me looking at her, she tries to cover my eyes with one hand."
-
-"I wonder exactly when it was that I started being attracted to her. Not just attracted to her physically, but drawn to her. And, I wonder why. She's pretty, but then, also very combative. Not just that, but she seems to like being that way."
-
-scene evh shizune_hcg_tied_blush_small
-with charachange
-
-"The way she's acting now, however, and at other times, doesn't really fit that image. I'm starting to think that maybe her tying my hands might have been for more reasons than just the most obvious."
-
-"Still, that aggressiveness that she flashes around as comfortably as a business card is real. I don't know whether or not that kind of attitude could be considered dangerous. If it is, I wonder what kind of person that makes me."
-
-hi "It was probably the first week I was here. A week doesn't sound so long when I think about it, but at the time it did. Even though I pretty much thought my days were numbered that week, it still seemed to go by so slowly."
-
-"Even if she can't hear me, it puts me at ease."
-
-hi "I started to realize that I didn't have that much to complain about. But there's still…"
-
-hi "Well, never mind."
-
-scene evh shizune_hcg_tied_stare_small
-with charachange
-
-"She glances at me, for no reason other than that I'm talking. Because she can't understand what I'm saying, Shizune becomes increasingly flustered, but doesn't sign anything in reply."
-
-scene evh shizune_hcg_tied_close_small
-show evh_hi shizune_hcg_tied_hisao2_small
-with charachange
-
-"Shizune sucks in her breath sharply as she lowers herself onto my penis, trying to keep herself upright as she teeters on top of me."
-
-"The skirt of her dress covers both of our intimate parts, and traps our body heat under it like a tent. Under it, I feel unbearably hot, and Shizune's hand guiding me into her only adds to it."
-
-show evh shizune_hcg_tied_kinky3_small
-with flash
-
-"The second that I penetrate her, Shizune winces, then nearly falls on top of me. The sudden sensation is mind-numbing, and I feel waves of pleasure radiate through me from both ends of my body."
-
-"It feels as if my entire lower body is enveloped in the warmth and wetness of Shizune's body, able to feel her every twitch and shudder as she starts moving."
-
-show evh shizune_hcg_tied_kinky2_small
-with charachange
-
-"Shizune begins rocking her hips back and forth, at first slowly, but with her tempo increasing each time she pulls herself almost completely off of me only to plunge back down at the last second."
-
-scene evh shizune_hcg_tied_kinky2:
-    zoom 1.0 yalign 0.1 xalign 0.7
-    acdc_warp 6.0 xalign 0.9
-with flash
-
-"Being so close to her, I can see the sweat beading on her skin and the fog that forms on her glasses when they slide down her nose and too close to her mouth before she pushes them back up."
-
-"Her fingertips press into my shoulders, holding on to them to steady herself, pushing against them to pull herself off of me, and then running down my arms and grasping for my wrists and hands as she pushes herself back down."
-
-scene evh shizune_hcg_tied_close_small
-with flash
-
-"Maneuvering around like this is difficult at best. Shizune tries to brace herself against me while pushing herself up and down with her feet. I attempt to kiss her, but only manage to succeed in touching our foreheads together, at least not painfully."
-
-"My thoughts wander briefly to whether or not the door is locked. If it were to open now, I'd probably have a heart attack, literally. And then there's the question of who would be opening the door."
-
-"The sense of danger only serves to make Shizune's movements more torturous, and I wish she would speed up, but from this position, it may not even be possible."
-
-show evh shizune_hcg_tied_kinky1_small
-show evh_hi shizune_hcg_tied_hisao2_small
-with charachange
-
-"I start moving my hips upwards in rhythm with her, trying to drive myself deeper into her. It doesn't matter to me that my movements are shaking the chair we're on, creating a loud knock as the wooden chair raps against the wooden floor."
-
-$ ksgallery_unlock("evhul shizune_hcg_tied_hisao2_small")
-show evh shizune_hcg_tied_kinky3_small
-with charachange
-
-shi "…nn…!"
-
-"Her breathing grows louder, and even sounds like suppressed moans escape her throat. Though it's obvious that she wants to hold them in, they're still loud enough that they would be audible to anyone standing outside the door."
-
-"I stop thrusting into Shizune, partly because it's harder to keep up with her as she starts getting more and more into it and moving faster than I can manage to match while under her."
-
-window hide
-
-play sound sfx_heartslow
-show heartattack alpha
-with Dissolve (0.1)
-
-hide heartattack alpha
-with Dissolve (0.4)
-
-window show
-
-"My heart races so quickly that I can almost hear the blood pounding in my temples, and more worryingly, I can feel a dull throb in my chest. I stop thinking about the pressure I feel between my thighs, if only for a moment."
-
-$ renpy.music.set_volume(0.5, 1.0, channel="music")
-
-scene white
-with whiteout
-
-"That moment, though, is enough. Combined with the tightness of her squeezing herself around me and the sensation of her skin rubbing against mine, I tense up and fire off inside Shizune. A fleeting feeling of power and flight."
 
 label en_delewd_S22x:
-$ renpy.music.set_volume(1.0, 2.0, channel="music")
-$ renpy.music.play(music_heart, fadein=2.0, if_changed=True)
-
-scene evh shizune_hcg_tied_close:
-    yalign 0.1 xalign 0.8
-show evh_hi shizune_hcg_tied_hisao2:
-    yalign 0.1 xalign 0.8
-with Dissolve(2.0)
-
-"Afterwards, I listen to the sound of my heartbeat slowing down until it reaches its normal rhythm. I listen to the sound of Shizune's breathing as it does the same."
-
-hide evh_hi
-with charachange
-
-"Her glasses are slightly askew, and this is the first time she isn't messing around with them in some way. I want to straighten them for her, but the second I try, I'm reminded that I can't. Shizune seems to have forgotten it as well."
-
-stop music fadeout 7.0
-
-scene evh shizune_hcg_tied_close_small:
-    truecenter
-    subpixel True zoom 1.2
-    easein 10.0 zoom 1.0
-with Dissolve(2.0)
-
-"Instead of getting up, she presses herself against me in the chair to extend her reach. It's almost as if this is the only position she can think to untie my hands from. That is what I think as I feel her unbinding my wrists."
-
-"However, she doesn't get off me. Her fingers gently stroke against mine, occasionally bending inwards to run over my palms. It's funny, but I feel more connected to Shizune through this simple act than before."
-
-"Shizune stays pressed against me like this for some time. It's a little uncomfortable, but it makes me feel happy, as if I could stay like this for hours."
 
 scene black
 with dissolve
@@ -7773,95 +7561,25 @@ show mishashort perky_sad_close_ss:
     linear 0.2 alpha 0 ypos 1.1
 with vpunch
 
-hide mishashort
-with None
-
 "Misha takes my silence as agreement, and squeezes herself against me tightly, as if she is trying to get into my clothes. My arms are enveloped by the softness of her skin and the warmth of her body. I roll over on reflex, and end up on top of her."
 
 "She looks at me, as if expecting me to take the lead, and closes her eyes nervously the second I return her gaze. I guess I have no choice, and I clumsily begin trying to undress her, something I've never done before."
 
 label en_delewd_S28h:
-scene evh misha_naked:
-    xalign 1.0 ypos 0.0 subpixel True
-    easein 12.0 xalign 0.0
-with whiteout
-
-"After all, I've only had sex once before, and I was restrained to a chair. This time, I'm in control, like I'd wished then. But it's really kind of scary, now that I am. I start by unbuttoning her blouse, and slipping it off of her shoulders."
-
-"Her figure is curvier than I expected, and complements her cute face."
-
-"Her bra unhooks in the back, and I have trouble getting it off, partly because Misha seems ashamed of her breasts, and halfheartedly tries to cover them before I've even undone it."
-
-"When I unlatch her skirt and start pulling down her panties, she offers more moments of weak, fake resistance. It's just a formality."
-
-"I realize now that formalities are very important to Misha. It's why she always greets everyone so happily, even when she probably isn't happy to see them."
-
-"Her eyes are open now, and I run my hand up the inside of her thigh, almost laughing when she shudders and nearly crushes it when she tightens her legs. A genuine reaction, and a cute one."
-
-"Shizune was better at hiding her inexperience, even though she was just as embarrassed."
-
-hi "Are you ready?"
-
-"She nods without looking at me."
-
-scene evh misha_sex_aside:
-    truecenter
-    subpixel True zoom 1.05
-    easein 6.0 zoom 1.0
-with locationchange
-
-"As I push myself into her, I can feel her becoming rigid with nervousness, which I start to feel as well when I meet a resistance inside her. I feel so tense that every time I move, it feels painfully mechanical."
-
-"I wonder if I should go more quickly, like Shizune did. But Shizune is pretty forward. It's a different situation now, one I regret getting myself into. I start pushing in slowly, and Misha winces in pain."
-
-mi "Please do it quickly…"
-
-scene evh misha_sex_closed:
-    zoom 1.0
-with locationchange
-
-mi "Ow…"
-
-"I stop."
-
-scene evh misha_sex_aside
-with locationchange
-
-mi "No, it's okay."
-
-"And then I push myself even deeper into her, to the hilt, feeling Misha's hands clasp my arms, and then reach higher, as if she is trying to climb them."
-
-"Grabbing at my shoulders, she pulls herself against me, joining us more tightly together, and I can't do anything but push back."
-
-scene evh misha_sex_closed
-with locationchange
-
-mi "Ah~… aaah…"
-
-"Hearing her moans, I speed up and find a rhythm. Her hands grip each other around my back, and I feel her elbows digging into the space under my ribs as I piston into her."
-
-"The blood pounds in my ears like the beating of a drum, until I can barely hear her."
-
-mi "Hnn~…"
-
-scene evh misha_sex_aside
-with locationchange
-
-mi "This is my first time with a man. It's weird."
-
-"I wish she would stop talking. Her voice is so quiet and breathy that I have trouble understanding her, but the tone of sadness permeating it is unmistakable, and only makes me feel guiltier."
-
-"I'm supposed to be comforting her, but it's entirely physical, and if Misha is being reassured in any way by this, she isn't showing it. That makes me question whether my decision was the right one. I'm really starting to doubt it."
-
-scene evh misha_sex_closed
-with locationchange
-
-"Despite that, her soft cooing in my ear makes me keep going, as does the hot, slick tightness around my member. Eventually, her leg twisting around mine, she tenses up in orgasm, her smooth neck rubbing across my cheek."
-
-scene evh misha_naked
-with whiteout
 
 stop music fadeout 6.0
+
+scene black
+with dissolve
+
+"..."
+
+"..."
+
+"..."
+
+scene bg school_dormhisao
+with shorttimeskip
 
 "It takes her a minute to separate herself from me. It gives me an opportunity to see her body fully, her pink skin blushing bright red and dabbed with sweat. I feel cold."
 
