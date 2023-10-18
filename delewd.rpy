@@ -8014,254 +8014,14 @@ with charachange
 
 ssh "Anyway, I don't consider it goodbye. But it's still an event. You still have to go through the proper motions."
 
-show shizu behind_blank
-with charachange
-
-stop music fadeout 4.0
-
-ssh "Aren't you going to?"
-
-his "Aren't I going to what?"
-
-show shizu basic_normal
-with charachange
-
-ssh "Kiss me, of course."
-
-his "Is that 'the proper motions?'"
-
-show shizu behind_blank
-with charachange
-
-ssh "It would be normal, wouldn't it? The natural thing to do."
-
-"It's time to act decisively. If I don't, I'm sure my heart will explode."
-
-show shizu adjust_blush_close
-with charachange
-
-"I kiss her immediately, so quickly that I don't even have time to enjoy it. Even though she was prepared for it, Shizune blushes a deep red. I feel a similar heat rising in my neck and cheeks."
-
-play music music_one fadein 4.0
-
-scene evh shizu_undressing_clothed_stare
-with whiteout
-
-"I move in for another kiss, but as I do so, she moves backwards at the same time and impishly jumps onto the cabinet behind her. Alone, in the total silence of the room, we just look at each other for a while."
-
-show evh shizu_undressing_clothed_kiss
-with charachange
-
-"This time, I kiss her more deeply. Her lips are light and dry, and open a tiny bit. I'm only able to appreciate the sensation for a moment before Shizune starts kissing me back forcefully."
-
-"Her bangs brush against my closed eyelids as I let myself sink deeper into the kiss. I can feel the shape of her body through her clothes, which only makes me hold Shizune tighter."
-
-show evh shizu_undressing_clothed_blush
-with charachange
-
-"It takes some effort for the both of us to draw back from each other. We're both blushing, both from the kiss and thoughts of what's to come, and I'm far from the only one breathing a little heavier."
-
-"As Shizune begins to take off my tie, I start undoing her blouse. It takes a while to figure it out. I'd never really thought about how our school's blouses work before."
-
-"Shizune's blouse is a little tight on her, and her arms get stuck for a moment because of it. I find myself peeling it off of her, although with the way she's trying to wriggle out of it at the same time, it isn't easy. The sight is a little comical."
-
-play sound sfx_rustling
-
-show evh shizu_undressing_unclothed_closed
-with charachange
-
-"Once Shizune's arms are free, she slides out of her shirt, her skirt falling around her knees with it after she unhitches it and works it off her legs. The only thing covering her now are her bra and panties."
-
-"Her figure is curvaceous and taut, and the healthy color of her skin contrasts with the black of her underwear. It's a wonderful sight, especially against the background of the moonlight through the window."
-
-show evh shizu_undressing_unclothed_blush
-with charachange
-
-"She looks at my chest and works the buttons of my shirt one by one. The process is greatly slowed by my hands moving up and down her thighs. It's a little amusing to play with her like this."
-
-show evh shizu_undressing_unclothed_kiss
-with charachange
-
-"Eventually, finally, my shirt falls to the ground. Shizune surprises me by quickly pulling me in for a deep kiss without warning, but I quickly return the gesture."
-
-show evh shizu_undressing_unclothed_talk
-with charachange
-
-ssh "Why are you bolder today than on the roof?"
-
-ssh "Or in your room?"
-
-"I try to think of a good answer, but it isn't easy. How would I be able to respond to that even if I could? There's no way to, unless I were to say that bureaucracy really puts me in the mood."
-
-"My shirt having been disposed of, Shizune moves on to my belt, and I decide to help her undo it instead of answering her question. I don't think it would do much good to at this point."
-
-scene bg school_council_ni
-with locationchange
-
-"It's not hard to get off, and falls to the ground with a metallic clunk. I move in for another kiss and begin to slide my hand up her side, but she suddenly lurches forwards, making me stumble backward."
-
-"The stiff edge of the table behind me was the furthest thing from my mind, until I feel it stabbing into my lower back. I hadn't even noticed it was there. It makes me grab Shizune a little tighter as we fall back onto the surface of the table."
-
 label en_delewd_S35h:
-show evh shizu_pushdown
-with charachange
 
-"I hold back a sigh as Shizune victoriously holds herself above me. She's won again."
-
-"I'm distracted until Shizune's bra falls on me, seemingly like it dropped out of the sky. I end up laughing, despite how hard I try not to, and it's contagious enough that Shizune starts to as well."
-
-"Freed from her bra, her breasts are larger than I'd thought, even though they were noticeably large through her shirt already. She picks up her bra with her fingers and flicks it off as my hands move over her body."
-
-"Straddling me with her knees on the table, Shizune slips her underwear off, with my hands moving from her hips unconsciously to help her. I catch a glimpse of my watch. It's only been a few minutes, but it felt like so much longer."
-
-"She eases herself downwards, closer and closer until our bare chests are touching, her breasts feeling strange against the scar over my heart."
-
-window hide
-
-show evh shizu_straddle_open
-with whiteout
-
-with Pause(7.0)
-
-window show
-
-"When Shizune sits up, I feel myself slipping inside, slowly enveloped by her below as her breasts lift away from my torso. An attack from two fronts, I think dryly considering the situation. How like her."
-
-show evh shizu_straddle_tease
-with charachange
-
-ssh "I should just stop now, and leave you stewing in your lust."
-
-"She says, as she starts grinding herself against me, causing me to blink at the sudden pleasure. Very funny, Shizune. I soon lose track of my thoughts."
-
-show evh shizu_straddle_closed
-with charachange
-
-shi "…sss."
-
-"Shizune bites her lip to muffle her voice from coming out. An unwanted voice. This is the most I've ever heard of it, and she blushes once she realizes she let it slip out."
-
-"To cover it up, Shizune drives herself against me harder, causing me to jolt against her, driving my erection deeper into her."
-
-"I thrust my hips towards her at the sudden sensation of movement, and Shizune fights against me, trying to pin me back down when I manage to pull my arms out from under me."
-
-show evh shizu_straddle_smile
-with charachange
-
-"In that moment, her hips thrust back with even greater force in response."
-
-"The sound of Shizune's soft, restrained moans, and the sight of her bountiful breasts moving up and down each time her hips buckle against mine, grow more arousing with time in the stillness of the student council room."
-
-shi "Mmphh…"
-
-shi "…nn…"
-
-"I almost can't take it any more. The pleasurable sensations welling up between my legs, multiplied by the pressure of Shizune's weight on top of me, make it hard for me to think. My hips start bucking by themselves."
-
-"Shizune's hands push mine down onto the table. Every motion of hers is a push of some kind."
-
-"The table under us rattles under our combined weight. I doubt it would collapse, but the noise is really something."
-
-show evh shizu_straddle_come
-with charachange
-
-"Not that Shizune notices. Her pace only grows faster, until it feels as though she might shove me across the table with how forceful she is being. Without warning, her movements come to a final crescendo."
-
-scene bg school_council_ni
-with locationchange
-with vpunch
-
-"Suddenly, she stops, almost falling onto me with enough speed that if she didn't catch herself, it would probably have knocked us unconscious. The worst situation possible, if someone happened to walk in while we were knocked out."
-
-"I'm surprised, but not enough to forget that we're both naked and the sudden, painful interruption that just happened."
-
-"Why did this have to happen? Was it intentional, to leave me stewing in my own lust? Shizune lets out her breath sheepishly, realizing it at the same time as I do."
-
-show shizu behind_blank_nak
-with charaenter
-
-ssh "Sorry, I tripped, or slipped, or something like that."
-
-his "I had a thought, is the door unlocked?"
-
-hide shizu
-with charaexit
-
-"She quickly gets off the table and bolts over to check, and locks it, unlocks it, and locks it again, pulling on the knob just to make sure. When she's finally sure, she makes an out-of-place motion with her hands."
-
-show shizu behind_smile_nak
-with charaenter
-
-ssh "Safe!"
-
-his "I'm glad you can take things so lightly."
-
-show shizu behind_frown_nak
-with charachange
-
-ssh "I didn't do it on purpose. Why don't you take the lead, then?"
-
-show shizu behind_smilelow_nak
-with charachange
-
-ssh "Come on."
-
-hide shizu
-with charaexit
-
-"I grab Shizune by the shoulders and try to put her onto the table instead. Her brow scrunches in displeasure as the edge of the table pokes her in the back, just as it did to me. She opts to help herself up onto it."
-
-scene evh shizu_table_smile
-with dissolve
-
-"This is also the first time I've seen Shizune lying down unclothed. The contours of her collarbone and breasts are beautiful, and my eyes follow them down to her shapely hips. A delicate hourglass figure."
-
-"I run my hands along the curve of her body, from her shoulders on down."
-
-"I slowly insert myself into Shizune up to the hilt. An intense warmth and tightness immediately surround me, and I start pistoning into her to pick up where we left off before."
-
-"Her body feels so hot against my skin, each time our hips meet with each thrust, and where we're holding each other. I feel like I'll be scalded by her body heat."
-
-"On top of that, I feel more sensitive now than before, and find myself pushing into Shizune harder to make up for it."
-
-scene evh shizu_table_normal
-with charachange
-
-"My hand glides around the curve of her thigh and I carefully tease her with my hand as well, almost losing my balance when she reacts strongly, snapping upwards and back into my groin and nearly pushing us both to the floor."
-
-"Moving my hands up, I grab her prominent breasts and fondle them as I've always wanted to. They feel even larger than they appear, and overflow my hands, soft and perfectly shaped."
-
-"She squirms under me as I flick my fingers over her nipples, and twists her arms around mine instead, gripping my fingers and drawing me closer. It feels like I'm wrestling her; the lock is inescapable."
-
-"From the first time our hands met, I guess we were connected."
-
-"Whether it's through her pulling me from one student council event to another, or holding hands as lovers, I think it's been the same, the confidence that comes across in the way she grasps my hand."
-
-"Her hands writhe across the surface of the table, and grabbing onto it, she hooks her legs around my back, pressing us closer together, connecting us even more closely and entrapping me inside her."
-
-show evh shizu_table_comeopen
-with charachange
-
-"Her inner walls are so hot and tight, and with her pushing up against me, the friction only increases, sending me over the top."
-
-show evh shizu_table_comeclosed
-with whiteout
-
-stop music fadeout 4.0
-
-"All too soon, the feeling ends. All I can do afterwards is stay inside of her with my hands holding the table, both for lack of energy and because her legs are still locking me in. For Shizune's part, she smiles almost dreamily."
-
-"The sight makes me smile as well. Her legs slowly fall, allowing me to extract myself."
 
 label en_delewd_S35x:
 scene bg school_council_ni
 with locationchange
 
-"Exhausted, I lean back against a desk and try to regain my breath before putting my clothes back on."
-
-"I notice a dull, hot throbbing in my chest as I button my shirt back up. It puts a bad aftertaste on everything that just happened."
-
-show shizu behind_smile_nak
+show shizu behind_smile
 with charaenter
 
 ssh "It was a lucky break that Misha couldn't be here, wasn't it?"
@@ -8270,7 +8030,7 @@ his "You're in an unusually joking mood today."
 
 his "I wonder what she had to do."
 
-show shizu behind_blank_nak
+show shizu behind_blank
 with charachange
 
 "Shizune traces the air lazily with a finger and points to the door."
@@ -8279,14 +8039,14 @@ ssh "Go see for yourself."
 
 his "Why don't you just tell me?"
 
-show shizu behind_smile_nak
+show shizu behind_smile
 with charachange
 
 ssh "It's more interesting if you see for yourself. Seeing is believing."
 
 his "Sure. Clever. Maybe I will. What about you, are you going to stay here all day? It's getting late."
 
-show shizu behind_blank_nak
+show shizu behind_blank
 with charachange
 
 ssh "It feels like my last day as Student Council president, so maybe I'll sleep here tonight. It could be the last chance I have to sleep at my desk, like after a long day trying to meet a deadline."
