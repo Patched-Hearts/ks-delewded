@@ -4612,10 +4612,6 @@ stop ambient fadeout 1.0
 
 "Before I manage five steps I stop, frozen in my tracks."
 
-"The ironic realization that human cognitive ability is commendable echoes through my mind."
-
-"From a mere movement of her shadow it took me a fraction of a second to realize something is awry, process what I'm seeing, formulate the answer and blush all the way up to the tips of my ears."
-
 scene ev rin_masturbate_away:
     truecenter
     subpixel True zoom 1.0
@@ -4625,16 +4621,6 @@ with whiteout
 play music music_moonlight fadein 0.5
 
 "Rin is sitting on the floor with her legs under her."
-
-"She moves in rhythmical motions back and forth, slowly grinding herself against herself."
-
-"Her breathing is so heavy it's almost visible in the dim light. It's the heavy panting of one who doesn't have the option of breathing gracefully."
-
-"Her hips, mere shadows against the dim light shining on her from above, are swinging circularly over and over again."
-
-"She hasn't noticed me, so engrossed she is in her… activity."
-
-"The deadlock solves itself before I get a chance to think what to do next."
 
 "Something in the atmosphere of the room changes, a little thing, not consciously noticeable, but it changes."
 
@@ -4650,16 +4636,12 @@ show ev rin_masturbate_surprise:
     ease 0.5 zoom 0.8
 with charachange
 
-"She stops moving, freezes and slowly turns to the door."
-
-"I imagine, not see, the horror on her face, like a fawn's eyes staring at a hunter."
-
-"I wonder if Rin can see my expression but at least she doesn't have the strength or the spirit to look straight in my eyes."
+"She freezes, and slowly turns to the door."
 
 show ev rin_masturbate_away
 with charachange
 
-"So, she droops her chin against her chest, letting her mess of a hair hide her face from me even further."
+"Drooping her chin against her chest, she lets her mess of a hair hide her face from me even further."
 
 "I feel like I should either walk out or walk to her, but I can't do either."
 
@@ -4727,10 +4709,6 @@ nvl clear
 "Day after day, working on her paintings with no heed paid to anything else."
 
 "Breaking herself to reach that which she wishes to reach."
-
-"This… obscene act that she does for reasons I'm not sure she herself understands."
-
-"Why does she have to do this? I'm trying to connect the pieces but I don't understand."
 
 "I feel sad, scared, excited, disgusted, worried and a number of emotions I can't remember the name of now. I feel conflicted."
 
@@ -4824,220 +4802,24 @@ rin "But it hurt me. I can't handle this."
 
 "At least she doesn't care if she looks sad or not, there are no facades, no attempts to explain herself, no faux happiness."
 
-"Rin is honest."
-
-play music music_heart fadein 8.0
-
-rin "Hisao."
-
-hi "What is it?"
-
-rin "You're my friend, right?"
-
-hi "Right."
-
-rin "Will you do me a favor?"
-
-rin "I can't fix this. But I'm not finished yet."
-
-"Her dry voice is a mere whisper but the strength, her last, is in it, delivering her meaning much more clearly than her words."
-
-"I can feel Rin's heart beating against my chest like a scared little bird."
-
-"Her entire body is shivering from her fever, from her fear, from her despair."
-
-"My brain is fast becoming overloaded with the myriad of thoughts this encounter spawned, but I have to push them all aside."
-
-"I snuggle my nose against her earlobe which is soft and cold and her hair which smells good and tickles me."
-
-hi "All right. I'll do it."
-
-"I whisper in her ear reassuringly, trying to make her calm down."
-
-"It works at least halfway, as Rin closes her eyes and leans against me as if searching comfort from my warmth."
-
-hi "But this is not something that friends should do."
-
-rin "We can't be friends any more?"
-
-hi "It's fine. Don't worry about it. Just relax."
-
-scene ovl rin_galleryskylight:
-    truecenter
-    zoom 1.0 subpixel True
-    linear 30.0 zoom 0.8
-with locationchange
-
-"Even though I said that, I'm on the verge of breaking myself."
-
-"If I wasn't so nervous, I would laugh at my own nervousness."
-
-"She wants to be comforted, and I want to comfort her."
-
-"But in this way…"
-
-"I move my hand lower, touching the naked skin of her stomach, caressing Rin with my hand."
-
-"Her muscles contract timidly, evading my touch, but soon they find their trust in me and relax."
-
 label en_delewd_R27h:
-scene evh rin_relief_down_large:
-    center
-    yalign 0.0 subpixel True
-    easein 12.0 yalign 1.0
-with silentwhiteout
 
-"There was one warm place left in her after all, emitting heat that gets even warmer as I move my hand lower."
-
-"I touch her carefully from down there, feeling the place where the lines of her thighs converge."
-
-"It feels burning and swollen, soft and smooth."
-
-"She opens under my touch, inviting my fingers to touch her more."
-
-"Rin gasps at the contact of my hand and her voice is not of pain nor of surprise."
-
-"I realize I've been holding my own breath, and let it go in a long stream of air out of my nostrils and into her hair."
-
-scene evh rin_relief_down
-with dissolve
-
-rin "Don't tickle me."
-
-hi "Sorry."
-
-rin "Don't stop either."
-
-hi "Sorry."
-
-hi "I don't really know what I'm doing. I'm just faking it."
-
-rin "It's okay. I don't know what I'm doing either."
-
-scene evh rin_relief_down_large:
-    center
-    yalign 1.0
-with dissolve
-
-"I enter her, moving my fingers up and down, in and out, touching her from everywhere, first slowly, then faster."
-
-"I listen to the subtle signs Rin's body gives, hoping that she can guide me as I can't see what I am doing."
-
-"Her breathing gets heavier by the moment, spurred on by my exploring fingers."
-
-"Rin's hips start moving in the same rhythm as me, guiding me deeper."
-
-scene evh rin_relief_down
-with dissolve
-
-"She turns her head, looking at me from the corner of her eye."
-
-"I wonder what she sees, but what I see in her almost scares me."
-
-"The passion in her eyes is like nothing I have ever seen, her dark eyes like two black stones against the moonlit skin of her cheek."
-
-"I kiss her gently on the cheek, right above the bone. My lips are coarse and dry."
-
-
-scene evh rin_relief_up
-with dissolve
-
-"My right hand moves upwards of its own accord, under the white cotton of her shirt, to caress the underside of her soft breast."
-
-"Sweat gleams on her skin, making it slippery under my hands."
-
-"She breathes in sharp, quick intakes in unison with the pulses of her insides against my fingers."
-
-show evh rin_relief_up_large:
-    truecenter
-    subpixel True
-    0.5
-    ease 8.0 yalign 1.0
-with dissolve
-
-"I can feel her heat, burning through her shirt against my chest."
-
-"I move faster and she moves faster, our primitive instincts blinding all reason as her fever becomes sweat drenching her shirt and her skin, her passion becomes my own, growing inside of me."
-
-"All these feelings unravel into their basic components, her softness, her wetness, her hotness, her sadness are the only things that I think, the only things I can think."
-
-scene evh rin_relief_up
-with flash
-
-rin "Ah…"
-
-$ renpy.music.set_volume(0.5, 0.5, channel="music")
-
-window hide
-nvl clear
-nvl show dissolve
-
-n "\n\n\n\n\nI push Rin over the edge."
-
-n "Her entire body contracts around my fingers in a blinding, deafening, paralyzing spasm. Her voice is incredible."
-
-n "I never thought it could be so violent, so absolute, for a girl."
-
-n "Later I would come to think that this finally was the moment when Rin fully let herself go, and in one single instant destroyed and rebuilt herself, just like she had wanted."
-
-n "Whether it's the truth or not, I couldn't say. But that's how I felt."
-
-$ renpy.music.set_volume(1.0, 1.0, channel="music")
-
-nvl hide dissolve
-nvl clear
 
 label en_delewd_R27x:
-window hide None
-
-stop music fadeout 10.0
-
-scene ev rin_masturbate_hug:
-    center
-    zoom 1.0 subpixel True
-    acdc_warp 40.0 zoom 0.8
-with dissolve
-
-window show
-
-"Rin gasps for breath like she's drowning, returning to reality because she has no other choice."
-
-"Her entire body is still in the throes of the slowly dying moment."
-
-"Pearls of sweat are glistening on her forehead."
-
-"I am feeling my own heat inside of me, but now the spur of the moment is gone and I don't know what to say to Rin who is panting, hot and ecstatic in my arms."
-
-"Her shirt, wet with sweat, is glued to her back, revealing hints of her shoulderblades and waistline."
-
-"She feels limp, weak, exhausted."
-
-scene bg gallery_atelier_ni
-with locationchange
-
-play music music_twinkle fadein 10.0
-
-play sound sfx_rustling
-
-"I reach out for the blanket and wrap it around her and me."
-
-"Rin doesn't resist me, she is drained of all strength."
-
-show rinpan relaxed_doubt_close_ni:
-    center
-    ypos 1.1
-with charaenter
 
 rin "What will happen now?"
 
 hi "I don't know. Nothing, I suppose. You look tired."
 
+scene bg gallery_atelier_ni
+with locationchange
+
 show rinpan relaxed_sleepy_close_ni
 with charachange
 
-rin "I am tired. It feels strange. Like I lost something. I mean something else than my marital purity."
+rin "I am tired. It feels strange. Like I lost something."
 
-hi "Don't say something like that. Neither of those things. I don't want to lose you."
+hi "Don't say something like that. I don't want to lose you."
 
 show rinpan relaxed_surprised_close_ni
 with charachange
