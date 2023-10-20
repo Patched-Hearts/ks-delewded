@@ -3935,117 +3935,36 @@ emi "Stay with me? Please?"
 
 hi "Of course."
 
-play music music_comfort fadein 4.0
-
-show bg school_dormemi_ss at right
-show emicas closedsmile_close_ss
-with dissolvecharamove
-
-"We embrace again, Emi guiding me towards her bed, stepping backwards with care, until she sits down on the edge."
-
-label en_delewd_E31h:
-hide emicas
-show eminude smile_close_ss
-with charachange
-
-"She's gotten my shirt off by this point, and I've similarly lifted hers over her head, bra and all. Her shorts come off just as quickly."
-
-"With practiced ease she removes her legs and pulls me onto the side of the bed with her, my hand coming around her smooth shoulder."
-
-hide eminude
-with charachange
-
-"I cast my gaze over her face, down her neck, following the line to the swell of her breasts before I lower my head, planting kisses across her chest, listening to her breath hitch as her hand slides further and further down my chest."
-
-"As I work my way back up to her neck, I can feel her hands working at my belt, now fumbling slightly with the buckle, now unbuttoning, now unzipping, until my pants fall to the floor."
-
-"Her panties are noticeably darkened in the right place, showing that my earlier ministrations have produced some results."
-
-"I step back quickly and shuck my boxers, and move back in as Emi reaches over into a drawer on her nightstand, removing a small foil package."
-
-"She tears it open with a quick jerk of her teeth and reaches down to apply the protection, which, as always, causes me to gasp a little."
-
-"Her expression suddenly changes as she takes the view of me in."
-
-show eminude evil_close_ss
-with charaenter
-
-emi "Wait a second… Are you still in your socks?"
-
-"I pause, and look down. Apparently, I am."
-
-hi "Er, yeah. Does that matter?"
-
-show eminude frown_close_ss
-with charachange
-
-emi "Take 'em off, it's weird if you still have them on."
-
-hi "You know, you've still got your socks on too."
-
-show eminude closedsmile_close_ss
-with charachange
-
-emi "Yes, but I don't have my legs on. So it doesn't count."
-
-"Unable to deny her logic and impatient to have the conversation over anyway, I quickly remove the offending items."
-
-"I'm so eager to get back at Emi that I practically jump on top of her, pushing her down playfully."
-
-scene evh emi_miss_closed
-with whiteout
-
-"Emi's giggling and squirming quickly ends, replaced by a happy sigh as I enter her. Breathing deeply as she savors the feeling, she spreads her arms to grab the sheets."
-
-"Her breath is in my ear as I begin moving, whispering words of encouragement, nipping at my neck, now at my mouth."
-
-"My hips hit the edge of the mattress, shaking the bed. A part of my brain briefly wonders if I should try to be quieter before succumbing to the waves of pleasure racing up my spine."
-
-scene evh emi_miss_open
-with charachange
-
-"Emi's stomach tenses as she grows closer to the edge, and as our bodies both begin to glisten with sweat time begins to become hazy."
-
-"The sound of my own breathing mingles with Emi's panting, and I ready myself for a final surge before surrendering to the rushing wave of climax."
-
-"Emi's body shudders, and she cries out, her fingers digging into my back as I too lose control of myself."
-
-"My back arches as I let myself go, feeling my body spasm as I orgasm."
-
 label en_delewd_E31x:
 scene bg school_dormemi_ss at right
 with shorttimeskip
 
 "I collapse next to Emi, who almost immediately curls against me, smiling."
 
-"Mentally, I feel grateful that Emi keeps her nails short, otherwise I think she might have drawn blood."
-
-"I sit up briefly to dispose of the now-used condom and lay back down next to Emi, who's in turn taken care of cleaning herself off."
-
 "For a while, we lay in silence, savoring the feeling of being next to one another."
 
 "Emi is the first to speak."
 
-show eminude smile_close_ss
+show emicas smile_close_ss
 with charaenter
 
 emi "Hey, Hisao."
 
 hi "Hmm?"
 
-show eminude closedsmile_close_ss
+show emicas closedsmile_close_ss
 with charachange
 
 emi "Thanks for coming with me today."
 
 "I smile and plant a kiss on her head."
 
-show eminude blush_close_ss
+show emicas blush_close_ss
 with charachange
 
 hi "Of course. My pleasure."
 
-show eminude closedsmile_close_ss
+show emicas closedsmile_close_ss
 with charachange
 
 "Emi snuggles closer, and I can feel her breathing begin to slacken as she begins to drift off to sleep."
