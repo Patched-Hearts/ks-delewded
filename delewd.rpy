@@ -5197,24 +5197,10 @@ with charachange
 
 "The silence is oppressive, terrifying."
 
-"Communication between us has suddenly been reduced to the movements of my hands and the towel, and Rin swaying her body to and fro."
-
-"My jagged breathing and her quiet breaths, trying to find a common rhythm that just is not there."
-
 "I think I can hear her heartbeats, or maybe they are just mine redoubled."
-
-"As I brush a rogue strand of hair aside from her ear, Rin suddenly presses her cheek against the back of my hand."
-
-"The contact is electric, a jolt of current surging through me."
 
 scene ev rin_wet_towel_touch
 with charachange
-
-"Whether she seeks comfort, warmth or just my touch I wouldn't know, but I can't help touching her back, caressing her soft cheek with my hand."
-
-"And with closed eyes, she kisses me, on the fingers, counting the joints with her lips…"
-
-"I am saddened beyond my expressive capability."
 
 "Here we are, a boy and girl, both in love or something like that with each other, or maybe not… and yet…"
 
@@ -5244,229 +5230,39 @@ n "So for now, all I can do is dry her up so she won't get a cold again."
 $ renpy.music.set_volume(0.2, 1.0, channel="ambient")
 $ renpy.music.set_volume(1.0, 1.0, channel="music")
 
-nvl hide dissolve
-nvl clear
-
-scene ev rin_wet_face_up
+scene bg misc_sky
 with charachange
+show hisaowindow
+with locationchange
 
-window show
+show rinpan relaxed_nonchalant_close
+with charachange
 
 "I pet her head, trying to sort out the hair that refuses to be sorted out even when wet."
 
 "A pair of dark, glazed eyes follows my every movement."
 
-hi "Pants too?"
-
-scene ev rin_wet_face_down
-with charachange
-
-"She nods an answer, leans back and spreads her legs, with a grotesquely inviting gesture that makes a nasty feeling crawl up and down my spine like a bad premonition."
-
-"It's not enough to sober me though, as the silence is starting to make me feel detached from myself."
-
-"I move automatically, without thinking even though I should; I should talk to her about this, or at least about something."
-
-"The silence is a spell, a pact that has bound us to this private world made of the dull sound of rainfall and the soft feel of her skin against my fingers."
-
-"The button of her trousers is fastened tight, but it opens surprisingly easily."
-
-"Slipping them off is hard, mostly because she is sitting on them, with no intention of standing up to ease my task."
-
-scene unlock_evh rin_h2_pan_surprise
-show evh rin_h2_pan_surprise:
-    xalign 0.5 yalign 0.0
-with whiteout
-
-"I kneel down uncomfortably and titillatingly between her legs so I can quickly dry her bare feet, remembering that they are as important to her as hands are to me."
-
-"As I work the towel up from her ankles, Rin brushes her thigh against my cheek and nudges the small of my back with her heel to make me come closer."
-
-"I look up to meet her silent stare that was waiting for me to look up."
-
-"That unassuming, expectant stare seems to say that the ball is in my court."
-
-"…"
-
-"I fleetingly brush my hand against her inner thigh."
-
-show unlock_evh rin_h2_pan_away
-show evh rin_h2_pan_away
-with charachange
-
-"The touch makes her gasp sharply, as if she was trying to hold back breathing."
-
-"What if I do this, then?"
-
-show unlock_evh rin_h2_pan_closed
-show evh rin_h2_pan_closed
-with charachange
-
-"The small kiss I place on her thigh is enough to make Rin lose her composure, to shut her eyes, to squeal almost inaudibly."
-
-"…Is that what you want too? Would it be all right now? To take this step?"
-
-show evh rin_h2_pan_closed:
-    subpixel True
-    acdc_warp 8.0 yalign 1.0
-with None
-
-"…What if? Maybe if…"
-
-"Hazy thoughts float somewhere in the back of my unfocused mind."
-
-"Somehow, this whole situation is making it hard to think, as if my head was full of cotton fluff."
-
-"But that's all right. It seems thinking is not something we need right now."
-
 label en_delewd_R41h:
-show evh rin_h2_nopan_closed:
-    yalign 1.0
-with Dissolvemove(0.5)
-
-$ renpy.music.play(music_heart, fadein=0.5, if_changed=True)
-
-"By the grace of vastly smaller amount of fabric, slipping off Rin's panties is considerably easier than her trousers."
-
-
-
-"They disappear past my field of vision, sliding somewhere away down her legs."
-
-"It seems I did a poor job with the towel, since Rin's legs are still wet from the rain."
-
-"Well, whatever."
-
-show evh rin_h2_hisao_closed
-with charachange
-
-"Guided by instinct more than rationality, I move closer and taste the different kind of wetness."
-
-"She responds to me, to the slow movements of my tongue on her skin, to my kisses on her flesh."
-
-"Her muscles tense and relax in the rhythm, as if what I am doing was uncomfortable."
-
-"To hear Rin trying not to make a sound when I suck on her is… unreal."
-
-"This whole morning has been so unreal, like the surreal intangibility of an awakening dream."
-
-"I can't believe I am doing this, to her, now. But I am going with the flow."
-
-"Besides, the point of no return was a thousand miles ago."
-
-"I move around, try to do things to her, to find the places where her weakness lies, to tease her, to drive her mad with pleasure because I want to, I want to do this to her."
-
-"But she doesn't squeal, she doesn't squirm, for maybe I can't make Rin any madder than she already is, whatever I do."
-
-"Her ragged, heavy breathing mixed with unintelligible moans is that of a lunatic, but I do not cause it."
-
-"I only release that from her."
-
-"She becomes more and more moist, and I drink from her, feeling a heat growing inside myself."
-
-"I try to reach her deepest places, to feel all of her I can this way."
-
-"My every action is met with a different reaction, but all of those are out of pure lust."
-
-show evh rin_h2_hisao_closed:
-    subpixel True
-    acdc_warp 16.0 yalign 0.0
-with None
-
-"Rin is lost in desire, willing to let anything happen to her if I do it right now."
-
-"She becomes closer and closer to the moment of release, but the way to that is an uphill slope of madness."
-
-"Still, she is going that way."
-
-"The muscles don't relax any more between the waves of ecstatic spasms."
-
-"Rin just becomes tenser and tenser, contracting so much that it must be physically painful, but I do not let go."
-
-"I keep going, and I know she wants it too, she desperately wants me to do this to her."
-
-"A leg curls around my shoulders and draws me closer, so close that I think that I'm going to choke."
-
-"I keep going because it's the only possibility."
-
-stop music fadeout 8.0
-stop ambient fadeout 12.0
-
-"As I push the button that drives her into gasping for breath, locking her leg into a cramp against my back, losing her mind in the sensation, at that precise moment I seem to forget all that was meant to be, all that should be."
-
-"All I know is that she came here and… I think there was a towel at some point, too."
-
-"None of it matters, all that matters is this, what we have now."
-
-"Her orgasm surges through me too, exciting me in a completely new way."
-
-"It makes me feel anxious, nervous. Bothered."
-
-show evh rin_h2_hisao_away:
-    yalign 0.0
-with Dissolvemove(0.5)
-
-"As her body relaxes, I try to kiss her down there again, but it startles her, causing her to jump."
-
-show evh rin_h2_hisao_surprise
-with charachange
-
-rin "No… Hisao… Enough."
-
-rin "Come here."
-
-scene bg school_dormhisao_rn
-with locationchange
-
-"I stand up to remove the last piece of clothing Rin has."
-
-"She leans against me to catch her breath, tickling me with warm air exhaled into my shirt."
-
-"Blindly, I reach behind her back to feel my way below her shoulder blades, to find the contraption that fastens her bra."
-
-"It opens more easily than I thought, falling to the floor somewhere."
-
-play music music_romance fadein 10.0
-
-scene ev rin_pair_base_clothes
-show rp_hisao normal at truecenter
-show rp_rin normal at truecenter
-with whiteout
-
-"Her bare skin against me is a sensation so wonderful that I want to have more of it, and I do, embracing her."
-
-"Rin's hair smells of rain, and I realize that I'm not hearing the sound of rainfall any more."
-
-"It's a sobering thing. The cushion that enveloped us into a reality of our own is now gone, and I realize more clearly what is happening."
-
-show rp_hisao frown
-with charachange
 
 hi "You know, this really is not what friends should be doing."
 
 "I whisper, once again noticing how such a simple matter as talking can be overbearingly difficult at times."
 
-show rp_rin talk
+show rinpan relaxed_doubt_close
 with charachange
 
 rin "Will you stop being my friend?"
 
-
-
 "That wasn't what I meant, but her serious tone and the layers of connotations behind Rin's question give me pause."
 
-show rp_hisao smile
-with charachange
 
 hi "Nah."
-
-show rp_rin smile
-with charachange
 
 rin "I… think it might be all right. Even if you did."
 
 "I hug her and smile into her hair, understanding Rin perfectly for once."
 
-show rp_rin frown
+show rinpan basic_deadpanamused_close
 with charachange
 
 rin "You are wet."
@@ -5475,71 +5271,7 @@ rin "You are wet."
 
 "Somehow, even her statements of the obvious make me glad right now."
 
-show rp_hisao normal
-with charachange
-
 hi "You're right. I am. But that's your fault."
-
-show rp_rin normal
-with charachange
-
-rin "I want to see you."
-
-play sound sfx_rustling
-
-scene ev rin_pair_base
-with charachange
-
-"I comply, standing back to open the buttons of my shirt, much more quickly than when I undid Rin's buttons."
-
-"A sudden sense of haste strikes me, spurring me to rush forward."
-
-"Every second I'm not touching Rin is a second wasted, a chance lost."
-
-"My belt buckle proves an obstacle despite my ability to open it in an eyeblink under normal circumstances."
-
-show rp_rin closed
-with charachange
-
-"While I fumble with it, I don't notice Rin bringing her foot up between us until she starts tracing my chest with her toe."
-
-show rp_hisao frown
-with charachange
-
-"I look down to see what she's looking at…"
-
-hi "My heart…"
-
-"I reflexively flinch back, covering the scar tissue in the middle of my chest."
-
-"The shallow mark that the surgery following my heart attack left on my body has healed already but… well, it's not a particularly pretty sight if not overly repulsive either."
-
-"It's barely noticeable, but she does have an eye for detail. Is this why she said she wanted to see me?"
-
-"I had sorta forgotten about this because of all this mess with Rin, but now all the unpleasant things connected to my condition surface at once, rushing through my mind like a flash flood."
-
-"And oh God all the stories about old guys getting heart attacks when having sex, what if…"
-
-show rp_rin talk
-with charachange
-
-rin "Hisao."
-
-"…"
-
-"Realizing that I might just have spoiled the mood, I stumble to explain myself."
-
-show rp_hisao normal
-with charachange
-
-hi "Ah… sorry, it's just that…"
-
-show rp_rin smile
-with charachange
-
-rin "Let me touch you."
-
-"Her eyes are sultry, inviting as she sits there bare naked without an inkling of shame. I never thought Rin could look like that."
 
 $ renpy.music.set_volume(0.1, 1.0, channel="ambient")
 $ renpy.music.set_volume(0.5, 1.0, channel="music")
@@ -5547,10 +5279,6 @@ $ renpy.music.set_volume(0.5, 1.0, channel="music")
 window hide
 nvl clear
 nvl show dissolve
-
-n "\n\nYeah, I know this is not how it should go."
-
-n "Even though Rin is right here, even though there should be no more questions, no obstacles, not this maddening feeling that something is constantly wrong…"
 
 n "The same feeling that clutched my heart yesterday makes its appearance."
 
@@ -5588,14 +5316,11 @@ $ renpy.music.set_volume(1.0, 1.0, channel="music")
 nvl clear
 nvl hide dissolve
 
-show rp_hisao frown
-with charachange
-
 window show
 
 hi "I'm sorry, you know…"
 
-show rp_rin closed
+show rinpan basic_lucid_close
 with charachange
 
 rin "Hisao, you really have to stop worrying."
@@ -5604,7 +5329,7 @@ rin "Hisao, you really have to stop worrying."
 
 "Her voice, void of its usual spaciness, scolds me softly, without an edge."
 
-show rp_rin smile
+show rinpan basic_deadpanamused_close
 with charachange
 
 rin "You really have to learn to let go."
@@ -5627,99 +5352,13 @@ rin "You really have to learn to let go."
 
 "The sight of her gentle, loving eyes seems to melt those doubts away like the last snow of winter."
 
-scene evh rin_h_closed
-with whiteout
-
-"She presses her head against my shoulder, seeking a place to rest herself in, leaning against me like I lean against her."
-
-rin "Let go."
-
-"Yes."
-
-scene evh rin_h_left
-with charachange
-
 rin "You should forget about stuff like future and past, it's not like you can change those kinds of things."
 
 "I wanted to say something to her, but I have lost my voice so I just mumble something unintelligible at her."
 
 rin "You should just be with me now."
 
-"Maybe she understood what I wanted to say even if I didn't."
-
-rin "Come here."
-
-hi "I am here."
-
-scene evh rin_h_normal
-with charachange
-
-rin "Come closer."
-
-"My entire body is thinking only in positives now so I do, hugging her more tightly."
-
-scene evh rin_h_right
-with charachange
-
-rin "Closer."
-
-"I press my lower body against hers."
-
-"She tenses a little. Just a little."
-
-scene evh rin_h_closed_close
-with characlose
-
-rin "Closer."
-
-"Her final plead is more like a prayer."
-
-"There is only one way to be any closer than this."
-
-"I reach down between us and guide myself, sinking myself into her."
-
-scene evh rin_h_strain_close
-with charachange
-
-"Every muscle in Rin's body stiffens at the same time."
-
-scene evh rin_h_strain
-with charadistant
-
-"She doesn't say anything, or wince, so I push deeper, eventually moving out."
-
-"And again. And she moves with me."
-
-"Our movements melt together into one continuous string of back and forth, in and out."
-
-"All sensations become sharper, amplified tenfold."
-
-"My brain gave up interpreting all this stimulation ages ago, and now I am left with no choice but to feel all of this with my entire body."
-
-"It's like that for Rin too, I know it. I can see it. I can feel it."
-
-"She breathes sharply in and out, losing all composure and grace, breathes warmly against my shoulder."
-
-"Between those fragile breaths, she sometimes kisses me tenderly, gently, as if she was unsure how to do it properly."
-
-"But there is no hesitation."
-
-"Desperately clinging to me, drawing me closer so that I can fill all of her, she moves against me, around me so that it's hard to say where I stop and she begins."
-
-"We take it slowly, excruciatingly slowly, as if we had all the time in the world even though we have only this moment and nothing beyond that."
-
-"That feeling is—{w=0.7}{nw}"
-
-scene evh rin_h_normal_close
-with characlose
-
-rin "Wait…"
-
-"I stop moving, slightly alarmed."
-
-"Maybe it hurts, or…"
-
-scene evh rin_h_right_close
+show rinpan relaxed_surprised_close
 with charachange
 
 "She looks at me in a way that I can't really begin to interpret."
@@ -5729,9 +5368,6 @@ rin "Is this it?"
 hi "…Huh?"
 
 rin "You said I don't have to be alone."
-
-scene evh rin_h_left_close
-with charachange
 
 "Her eyes are full of an innocent, fuzzyheaded confusion that makes me chuckle a little and pet the back of her head."
 
@@ -5743,44 +5379,6 @@ hi "It means you are not alone."
 
 hi "If there is such a person for you."
 
-scene evh rin_h_closed_close
-with charachange
-
-"She answers with a kiss, reminding me that we have stopped moving for no real reason."
-
-"So we start from the top, almost at the same time, each mirroring the rhythm of the other."
-
-"I move faster, faster in and out of her, my sweat mixing with hers, glistening on our shared skin like diamonds and pearls."
-
-scene evh rin_h_strain:
-    truecenter
-    zoom 1.2 subpixel True
-    easein 20.0 zoom 1.0
-with charadistant
-
-"She moves faster, grinding herself against me in the throes of our desire."
-
-"The intoxicating scent of her lust, the mind-blanking feeling that connects our bodies, the sense of all rational thought draining from my mind."
-
-"All those burn my consciousness just like the compelling feeling in my body burns my instincts."
-
-"As those feelings grow, Rin makes no signs of stopping."
-
-"She curls her feet behind my lower back, forcing me to drive myself inside her as deep as physically possible, each millimeter sending waves through my spine."
-
-"My mind blacks out as the world erupts into a flash of bright white blindness."
-
-stop music fadeout 2.0
-stop ambient fadeout 2.0
-
-window hide
-
-scene white
-with Dissolve(2.0)
-
-$ suppress_window_after_timeskip = True
-
-with Pause(4.0)
 
 # Closer (Shizune Act 3 Tied to Chair)
 label en_delewd_S22c:
