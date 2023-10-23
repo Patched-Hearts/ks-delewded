@@ -164,8 +164,6 @@ li "Should we… get more comfortable?"
 
 hi "Hmm? Ah, o-okay…"
 
-"Now that she mentions it, this futon would be a bit too narrow to do much on. Considering the thoughts running through both our minds, it's no small wonder one of us has any measure of foresight left."
-
 show lilly invis:
     ypos 1.2
 with dissolvecharamove
@@ -174,8 +172,6 @@ hide lilly
 with vpunch
 
 "I take her hands and guide her sideways as I move, the brief and awkward dance ending with both of us tentatively sitting on the floor opposite each other."
-
-"As I reach forward to pull her top up, she stops after she moves her hands to do the same."
 
 show lilly basic_concerned_cas_close_ss:
     center
@@ -196,13 +192,6 @@ with charachange
 li "So you're as nervous as I am, then?"
 
 "I withdraw my hands and sigh, steadying myself. We have plenty of time, so there's no need to rush this."
-
-hi "Sorry. It's my first time, so I'm a bit…"
-
-show lilly basic_cheerfulblush_cas_close_ss
-with charachange
-
-"She giggles shakily, all but confirming what I reasonably deduced by now."
 
 show lilly basic_smile_cas_close_ss
 with charachange
@@ -230,42 +219,20 @@ with charaexit
 "Once we remove the last of our clothes, which end up haphazardly piled behind us, my breath is taken by the sight in front of me."
 
 label en_delewd_L17h:
-show lilly behind_reminisce_nak_ss
-with charaenter
-
-"Her long, shapely legs, full hips and her breasts, plump but dainty… her slightly blushing face, delicate and reserved, is framed by the bangs of her hair."
-
-"Her hands, tightly held behind her, only serve to further accentuate her chest. Her tall and pale body is beautiful when bared."
 
 "This girl in front of me, reserved yet playful, astute yet hospitable, is the girl I've fallen in love with."
 
 "I lean forward, delicately taking her shoulders in my hands."
 
-show lilly behind_listen_nak_close_ss
-with charachange
-
 "As I do, she brings her hands to my chest. With a slightly uneven breath, we lean into a deep kiss."
 
 "I feel one of Lilly's hands slowly slide up to my shoulder, it and her head very gently moving forwards. Assuming her intent, I lean back onto the floor."
 
-hi "Ah…"
-
-scene evhunlock lilly_handjob_chest_normal_small
-show evh lilly_handjob_chest_normal:
-    xalign 0.7 yalign 1.0 subpixel True
-    ease 8.0 xalign 0.4 yalign 0.2
-with whiteout
-
-"She lowers herself beside me, one hand stroking my hair as the other moves across my chest. The feeling of her breast against it is enough to excite me."
+"She lowers herself beside me, one hand stroking my hair as the other moves across my chest."
 
 "This must be her way of taking in what I've already seen of her; despite her lack of sight, she engraves every detail of my bare body and chest into her mind."
 
 "When her middle finger falls into the slight recess of my chest scar, a lingering effect of my operation so many months ago, she slowly runs her hand down its length."
-
-show evhunlock lilly_handjob_chest_frown_small
-show evh lilly_handjob_chest_frown:
-    xalign 0.4 yalign 0.2
-with charachange
 
 li "This is…"
 
@@ -281,132 +248,15 @@ li "Should we… really be doing this kind of thing…?"
 
 hi "It's okay, Lilly. This much will be okay."
 
-show evh lilly_handjob_chest_normal
-with charachange
-
-"Her troubled expression holds for a moment longer, but she eventually acquiesces, her hand moving to my lower chest and then my thigh."
-
-show evh lilly_handjob_chest_normal:
-    zoom 1.0 xalign 0.4 yalign 0.2
-    ease 4.0 zoom 0.667 xalign 0.5 yalign 0.5
-with None
-
-show evh lilly_handjob_stroke_normopen:
-    zoom 1.0 xalign 0.4 yalign 0.2
-    ease 4.0 zoom 0.667 xalign 0.5 yalign 0.5
-with charachange
-
-"With a look of slight surprise, she slowly moves her hands downwards, her breath catching as she brushes the side of my lower hair."
-
-"She tentatively moves her hand sideways, delicately touching the most honest part of my body."
-
-show evh lilly_handjob_stroke_normshut_small:
-    truecenter 
-    zoom 1.0
-with charachange
-
-li "Th… this is…"
-
-hi "Y-yeah."
-
-"Our nervousness peaks as the act begins, her hand gently patting up and down as lightly as if it would break if breathed upon."
-
-"I'm not sure whether it's just to steady myself or because I want to steady her, but I take my free hand and hold the side of her face in it. The feeling of her hair and soft skin is nice, and it seems to lighten her mood a bit."
-
-"The mere fact that I'm being touched by her is surprisingly erotic. I feel my body relaxing as I submit to the pleasure overwhelming me."
-
-"Long minutes pass in almost total silence, our heavy breathing the only sound to be heard in the house. Lilly's fingers stop affectionately stroking my hair and she opens her lips once again."
-
-show evh lilly_handjob_stroke_flustopen_small
-with charachange
+"Long minutes pass in almost total silence, our heavy breathing the only sound to be heard in the house."
 
 li "Hisao…"
 
-"I wait a second for the rest of the sentence, but none is forthcoming. She may be trying to take the lead, but she's still incredibly nervous."
+"I wait a second for the rest of the sentence, but none is forthcoming."
 
-"I can't help smiling as I stroke her hair from her face a couple of times, reassuring her. As nervous as she may be, I'm thankful that Lilly's taking the lead. I'd probably be just as anxious as she if I were attending to her."
-
-show evh lilly_handjob_stroke_normopen_small
-with charachange
-
-hi "Okay."
-
-"She pauses a moment before giving a small nod, sitting up and shifting her legs over mine. Once again my breath is stolen by the magnificent sight of her body over mine."
-
-show evh lilly_cowgirl_smile_small
-with whiteout
-
-"I can only look on frozen as she delicately lowers herself, resting her reddened lips over me. She slowly begins to move her hips downwards, her softness enveloping my consciousness."
-
-show evh lilly_cowgirl_weaksmile_small
-with charachange
-
-"She takes a deep breath to collect herself, her face remaining steady. With her hands taking in my body in lieu of sight, the intimate situation muddles her usual efforts to compensate for lack of eye contact."
-
-"She gradually lowers herself onto me, her knees and hands supporting her as she does. Her entire body tenses as I enter, her expression obviously one of stifled pain."
-
-"Despite that, I can't help savoring the soft, warm feeling enveloping my consciousness, the surge of pleasure overcoming all my senses."
-
-"The last vestiges of it all but disappear inside her while her nails slightly scrape into my chest in an effort to stop herself from yelping in pain. A pained moan, too much for her to suppress completely, escapes from her lips."
-
-"As I open my mouth to comfort her, I see the barely visible red drops from between her legs."
-
-hi "Lilly, if it's too much…"
-
-scene evh lilly_cowgirl_strain_small
-with charachange
-
-"She clenches her mouth tightly, quickly and forcefully shaking her head from side to side in defiance. After a couple of seconds she relaxes her body slightly, though she's still obviously far from being comfortable."
-
-li "I… it's okay… I'm okay."
-
-scene evh lilly_cowgirl_frown_small
-with charachange
-
-"She swallows hard, trying to collect herself."
-
-"Lifting herself slowly and bringing herself back down, she relaxes a little more as the feelings of pleasure begin to overtake those of pain."
-
-scene evh lilly_cowgirl_strain_small
-with charachange
-
-"Her breathing starts to match the same ragged patterns as mine, her body moving almost teasingly slowly. She looks as if she's slowly beginning to enjoy the act, my feelings finally reaching her."
-
-"I'm not sure if she's keeping herself at this speed for her sake or for mine, but either way… with this slow and steady pace, I think I can… keep my body in check. It's funny, in a way, that even now I'm depending on her."
-
-"For us to be joined together like this, our feelings so close… it makes me glad. To be sharing our first moment together like this… is an almost… overwhelming… feeling…"
-
-hi "I love you… Lilly…"
-
-scene evh lilly_cowgirl_cry_small
-with charachange
-
-li "Hisao… Hisao…!"
-
-"I can feel her body tensing, her breathing and movements becoming steadily less carefully controlled. I'm happy to be making her feel so good, but as my thoughts become increasingly focused, I can feel myself rapidly nearing my limit."
-
-scene white
-with Dissolve(3.0)
-
-"Control of my body is instantaneously wrested from my mind as I grit my teeth hard, a loud moan escaping as I climax and my hips hit hers. Her body hunches over at the same moment, her breasts touching on my chest."
-
-"We stay locked in all-encompassing ecstasy for a brief moment, my mind completely taken by the feeling for a precious few seconds."
-
-scene evh lilly_cowgirl_weaksmile_small
-with charachange
-
-"It ends all too soon and our bodies collapse in exhaustion with Lilly barely staying on top of me."
-
-"I lifelessly manage to wrap my arms around her limp, sweating body, and for minutes we simply lay there, silently savoring the contact with each other while we recover from the experience."
-
-"Neither of us had thought ourselves prepared for such a thing, of that much I'm certain."
-
-"Entirely drained, far past the point of conversation, I look at her tired face. It looks as if the exertion, both physical and mental, has almost forced her to the verge of collapse."
+"I can't help smiling as I stroke her hair from her face a couple of times, reassuring her."
 
 hi "I love you, Lilly."
-
-scene evh lilly_cowgirl_smile_small
-with charachange
 
 "She nods weakly, rubbing my hair with her left hand. If we could simply remain together like this for an eternity, it would be a paradise like no other."
 
@@ -522,11 +372,9 @@ with charaexit
 
 play sound sfx_rustling
 
-"She continues undressing, her shirt and skirt falling to the floor and leaving her in her white lace bra and panties. Eventually, she stands bare in the center of the room."
+"She continues undressing, her shirt and skirt falling to the floor. Eventually, she stands bare in the center of the room."
 
 label en_delewd_L19h:
-show lilly behind_sleepy_nak at center
-with charachange
 
 "Compared to last time, it's a lot easier to take in her entire figure. It's a wonderful sight."
 
@@ -534,15 +382,9 @@ li "Hisao?"
 
 hi "Hmm?"
 
-show lilly behind_pout_nak at center
-with charaenter
-
 li "You're thinking perverted thoughts, aren't you?"
 
 hi "Give me a break, you're undressing in front of me."
-
-show lilly behind_weaksmile_nak at center
-with charachange
 
 "She furrows her brow in thought."
 
@@ -552,13 +394,7 @@ hi "Why?"
 
 hi "…Ah."
 
-show lilly behind_giggle_nak at center
-with charachange
-
 "She gives a small, lighthearted chuckle, which seems to settle her nerves a little."
-
-show lilly behind_smile_nak at center
-with charachange
 
 li "If this is too much for you, Hisao, I can come back later."
 
@@ -566,35 +402,19 @@ hi "No, no, this is fine. I'm just a bit… well…"
 
 hi "You're really beautiful, you know."
 
-show lilly behind_emb_nak at center
-with charachange
-
 "My earnest comment draws a vivid red blush from Lilly."
 
 li "Hisao…"
 
 "I give a small grin. She's cute when she's taken off guard."
 
-show lilly behind_smileclosed_nak at center
-with charachange
-
 li "In any case, may I come in?"
 
 hi "Ah, sure."
 
-hide lilly
-with charaexit
-
 "I lean forwards and take her soft hands in mine, helping her over the side of the bath."
 
-"She feels out the side of the bathtub then slowly lowers herself in, my breath catching when she sits and leans her back onto my front, her legs inside mine. I'd expected her to sit at the other end."
-
-scene evh lilly_bath_smile_small
-with whiteout
-
-"Letting out a long breath to calm myself, I rest my arms on the sides of the bath as I struggle to control my urges."
-
-"Far from missing the sight of her… assets, the feeling of her body against mine is surprisingly relaxing. If Lilly's so sensitive to touch, it must be all the more so for her."
+"She feels out the side of the bathtub then slowly lowers herself in."
 
 li "You run your baths quite hot, don't you?"
 
@@ -608,9 +428,6 @@ hi "Okay."
 
 "The conversation comes to an abrupt end, silence taking over."
 
-show evh lilly_bath_emb_small
-with charachange
-
 "A very long, and very awkward, silence."
 
 li "Maybe this was a bit too…"
@@ -620,8 +437,6 @@ hi "Don't worry, it's okay."
 "The situation only becomes even more awkward. As if to distract herself, Lilly runs her free hand over her legs while holding one over her breasts for modesty."
 
 "I sit idly watching the wall ahead of me and the rising steam, every now and again stealing a glimpse at her body."
-
-"The white of her skin glistens as she keeps sliding her hand over her legs, their length and tone all the more obvious."
 
 hi "You know, compared to Akira, you look a lot more foreign."
 
@@ -637,9 +452,6 @@ hi "Ah, I see. Taking after your Scottish side would also explain your height, I
 
 hi "This really is too much, isn't it?"
 
-show evh lilly_bath_smile_small
-with charachange
-
 li "You're enjoying it though, aren't you?"
 
 hi "In some ways, yes. I guess things turned out okay, in the end."
@@ -652,92 +464,15 @@ hi "Memories, huh? I suppose so. We'll have to see how everything goes once we g
 
 hi "I've been winding myself up for weeks about that, so I'm thankful for things turning out like this."
 
-"She nods, leaning into me as we share the warmth of our bodies."
-
-"I'm not sure whether she'll be okay with it or not, but my temptation rapidly begins to get the better of my self-restraint."
-
-hi "Hey, Lilly?"
-
-li "Yes?"
-
-hi "How was it? Last night, that is."
-
-"She pauses in thought before looking down slightly. A delicate smile finds its way onto her lips as she blushes, her body becoming more relaxed. It's more than enough to answer the question."
-
-"Even as I give a small nod in response, thoughts of last night run through my mind. Considering the situation, I don't really think anyone'd blame me."
-
-li "Hisao, your heart's beating…"
-
-"Her voice is cut off as I delicately place a hand on her thigh. While I'd resisted before, the memory of our first time is enough to make me give in."
-
-"She lets her body lean into mine without a word of protest, an invitation that I'd be hard put to ignore. I place a small kiss on her neck to accept, before slowly moving my hand over her smooth legs."
-
 li "Hisao, please…"
 
 "Even as she says it, her mouth curls upward into a smile, her tone caught between embarrassment and awkward giggling."
 
-show evh lilly_bath_open_small
-with charachange
-
-"Eventually she takes one of my hands in hers, guiding it to her right breast. I greatly appreciate the tentative guidance she's willing to give me."
-
-show evh lilly_bath_grab_small
-with charachange
-
-"All signs of tension in her body give way. I continue to take in the feeling of her soft skin, redoubled as my other hand slips between her legs."
-
-"I wonder if the feeling of my hands on her is exaggerated by her lack of sight, since her other senses are so finely tuned."
-
-"She does seem to be enjoying it to a surprising extent, after all. It gives me a somewhat odd feeling, but a pleasurable one."
-
-show evh lilly_bath_moan_small
-with charachange
-
-"It only takes a few minutes before her body starts to squirm ever so slightly, her efforts to stifle her moaning becoming visible as she purses her lips. Her lighthearted, whispered protestations become noticeably more quiet."
-
-"This makes me realize that all her squirming against my body's made me increasingly excited as well."
-
-hi "Lilly…"
-
-show evh lilly_bath_smile_small
-with charachange
-
-"I withdraw my hands to give her addled senses time to respond. Nodding, she shakily stands and offers her hands for me to lead her out of the cramped bathtub."
-
-scene evh lilly_afterbath_open_small
-with locationchange
+"She shakily stands and offers her hands for me to lead her out of the cramped bathtub."
 
 "She maneuvers herself out of the bath as I do, our hands holding each other's."
 
-"Eventually I sit beside the bathtub, the two of us fussing around a little until we get comfortable. With a small gasp, desperately constrained to avoid being audible outside, she lowers herself onto me once again."
-
-"The way she moves makes it obvious that she must still be on the verge of her climax."
-
-"She slowly starts to move her hips up and down, her tongue finding mine as she holds my face upwards. I realize just how much pleasuring her has excited me."
-
-scene evh lilly_afterbath_shut_small
-with locationchange
-
-li "Hisao… Hisao…"
-
-"Despite her clouded eyes being shut, her tightening grip on my shoulders show that she's nearing the end of her endurance."
-
-"As our breathing becomes more and more ragged, I rapidly feel my limit approaching as well."
-
-"A series of harsh breaths is the only warning before her final gasp of ecstasy, her entire body tensing and her fingernails digging into my shoulders."
-
-"My loins hit hers, both of us frozen against each other in climax."
-
-with Fade(0.5,1.0,4.0, color="#FFF")
-stop music fadeout 8.0
-
-"In a few precious seconds, it's all over, Lilly slumping forward onto me as I try to regain myself."
-
-hi "That was… good…"
-
-"She takes a gulp of air before replying, steadying herself as she nods."
-
-li "Mm…"
+"Eventually I sit beside the bathtub, the two of us fussing around a little until we get comfortable."
 
 "She bows her head down to give me a small kiss, my hand reaching up to hold strands of her disheveled hair as we once again sit in blissful silence."
 
@@ -1240,10 +975,6 @@ play music music_one fadein 1.0
 
 "I accept gladly, our lips touching. As they do, I suddenly feel her hand snaking up my chest from underneath my shirt. The feeling of her hand against my bare skin is enough to make my heart suddenly accelerate."
 
-"So she's in that kind of mood again?"
-
-"Well, I'm hardly one to complain. She does genuinely like this, and even with all my medications, my libido is thankfully still intact."
-
 "I lean into the kiss further, holding her hand tightly as I feel it tracing the contours of my chest."
 
 scene bg school_dormlilly
@@ -1267,8 +998,6 @@ with charachange
 li "I don't suppose… you could wear the blindfold again?"
 
 "Her tentative suggestion takes me by surprise."
-
-"I suppose she wants to introduce me to sex through her eyes as well. Or just wants to find out what I'll be like during the act while hampered by the blindfold."
 
 $ renpy.music.set_volume(0.5, 0.0, channel="music")
 
@@ -1298,114 +1027,23 @@ li "Shh."
 
 "Measuring it against my own breathing, I realize it's definitely deeper than normal, especially for her."
 
-"Another sound makes its way to my ears, one that I can't identify immediately. I don't think I've heard it before, but…"
-
-"My heart skips a beat as I realize the source, my hand almost reflexively reaching out towards it. Her face feels softer than usual under my touch, her head just barely turning in acknowledgment towards the fingers on her cheek."
-
-li "Hisao…"
-
-"I gulp and take a moment to try and calm down. I need all the concentration I can muster while I'm like this in order to fully take in my surroundings."
-
-"After a few deep breaths, I think I've managed to collect myself. With a touch so light that it wouldn't disturb a feather, I start to move my hand down her body."
-
-"…and I can feel myself losing focus again, thanks to those thin silken pajamas of hers resting so perfectly over the curves of her body."
-
 "If she's like this, then that means she has to be sitting against her bed and facing me. Now, to continue."
 
 "…All right, this must be her hip. If I just move slowly downwards…"
 
 label en_delewd_L26h:
-"Lilly's breath catches as my hand comes over hers, tentatively following her fingers between her legs and losing them as they go underneath her underwear."
-
-"Just the slightest moisture touches my fingertips, but it's enough to easily work out what she's doing."
-
-"My mind suddenly fills with visions of what she must be like in front of me right now. I'd never even imagined her doing this before, and being unable to see her doing the act only enhances the mood."
-
-$ renpy.music.set_volume(1.0, 1.0, channel="music")
-
-scene bg school_dormlilly
-with softwipeup
-
-"I work the blindfold upwards, brushing out of my eyes a couple of hairs that were stuck to the ribbon before."
-
-"For a period of time I can only guess at, my mind goes completely blank. All I can do is stare as my newly-freed eyes take in everything in front of them."
-
-scene evh lilly_masturbate:
-    truecenter
-    subpixel True zoom 1.1
-    acdc_warp 10.0 zoom 1.0
-with flash
 
 "Just as I'd worked out, Lilly sits in front of me."
 
-"With one hand on the ground to steady herself, and the other's fingers lightly brushing between her legs, hidden by her dark blue underwear, I think it's the most erotic sight I've ever seen."
-
-"Once again I reach out and brush her hair from her face, her chin tilting outwards as she fills her pleasure-wrapped body with another breath of air."
+"Once again I reach out and brush her hair from her face, her chin tilting outwards."
 
 hi "Lilly…"
 
-"Lilly looks oddly cute as she smiles at my calling of her name. It always seems like it's at the moments when she's least attentive that she lets her most interesting emotions slip out."
-
-"It's not long before she works her fingers over herself faster than before, her excitement evidently rising, the scent of her sweat in the air only echoing that fact."
-
-"I sit in front of her. It's hardly as if my own arousal's holding still; it's taking every fiber of my being to let her continue by herself instead of pushing myself on top of her."
-
-scene evh lilly_masturbate_come_face
-with flash
-
-"It's strange… I'd initially found her clouded blue eyes to be distracting, almost disturbing in their lack of focus. That bothers me far less than it used to, now."
-
-"My attention refocuses on her as she lets out a whimper, her breath coming much faster than before and her hips subtly rocking."
-
-scene evh lilly_masturbate_come
-with flash
-
-"No sooner do I realize how close to the edge Lilly's become, that her breath catches. Her eyes clasp shut as every muscle in her body seems to contract, and she unmistakably reaches her climax."
-
-"For only a scant few seconds she tightens, huddled in ecstasy before her body relaxes and a long, drained sigh comes from her lips."
-
-scene bg school_dormlilly
-with locationchange
-
-"I… just have no idea what to say. Silence reigns while I simply watch her, hair hanging over her face as she sits exhausted."
-
-show lilly basic_emb_paj_close:
-    center
-    ypos 1.1
-with charaenter
-
-li "Hisao…"
-
 "When she reaches out to brush my face, my urges take complete control of my body. Without so much as a second thought, I push myself over her frame."
 
-"It's an unusual feeling, being like this. I feel oddly powerful, holding myself above her blank face. As though, for the first time since the accident so long ago, I feel physically strong."
+"It's an unusual feeling, being like this. I feel oddly powerful. As though, for the first time since the accident so long ago, I feel physically strong."
 
 hi "Lilly… I want you."
-
-show lilly basic_weaksmile_paj_close
-with charachange
-
-"To my surprise, she smiles weakly before reaching upwards to feel the side of my face. It's an almost cheeky expression, of the kind which she usually gives only after getting something out of me."
-
-hi "You… wanted me to do this?"
-
-show lilly basic_smileclosed_paj_close
-with charachange
-
-"She holds her smile and gives a silent nod. I guess it was an effective way to make me take the initiative for once."
-
-$ renpy.music.set_volume(0.5, 1.0, channel="music")
-
-scene black
-with softwipedown
-
-"And, again to my surprise, she gives the ribbon still around my head a sharp tug downwards. Once again, I'm lost in complete blackness."
-
-li "I told you… to keep it on… didn't I?"
-
-"That teasing edge to Lilly's voice, punctuated by her breathing… she never seems to lose her ability to take control of a situation."
-
-"But this time… this one time…"
 
 li "Ah, Hisao!? What are you—?"
 
@@ -1415,19 +1053,11 @@ li "Ah, Hisao!? What are you—?"
 
 "It only takes a couple of carefully placed steps to feel the edge of her bed against my legs, my lowering of Lilly onto her sheets just as gentle as when I raised her."
 
-
-
 hi "Your bed will be more comfortable than the floor, right?"
 
 li "Always the gentleman, aren't you?"
 
-"I quickly run my hands down Lilly's long, shapely legs, their allure far from diminished without the luxury of sight, and pull off her pajama shorts and underwear from her ankle."
-
-"I have no idea where those just went…"
-
-"Well, I guess it doesn't matter. They'll be somewhere around."
-
-"With a minimum of fuss, I shuffle down my own pajama trousers and underwear, positioning myself between her legs. Or at least, where I think is between her legs."
+"I quickly run my hands down Lilly's long, shapely legs, their allure far from diminished without the luxury of sight."
 
 "With one hand on her bed to steady myself, my right moves tentatively downwards."
 
@@ -1437,17 +1067,7 @@ li "Always the gentleman, aren't you?"
 
 "This would be a lot easier if she wasn't moving her face into my hand, but the feeling of her nuzzling into it is nice."
 
-"I swallow to try and steady myself, take my other hand from the bed and use it to guide myself into her."
-
-"As soon as I feel her warmth around me, I quickly realize just how turned on I am."
-
-"With my sight gone I'm free to concentrate far more on my other senses, including tactile feeling. The entire experience feels more vivid, more intense than it's been before."
-
-"I slowly start to move my hips back and forth, my heart beating wildly in excitement."
-
 "I feel Lilly's eyes clenching shut, the movement of her cheek under my thumb reminding me of the gentle hold I have on the side of her face."
-
-"It's hard to stop myself from being completely overwhelmed. It's hard to think that this is what sex is usually like for her, experienced through every sense but the one I hold dearest."
 
 "From her cheek to her neck, I begin to slide my hand downwards to take in the feeling of her body."
 
@@ -1455,15 +1075,7 @@ li "Always the gentleman, aren't you?"
 
 "My sense of smell is stimulated by the scent of her sweat and mine hanging in the air. Even the ambient smell, noticeably different from that of my own room, adds to the feeling."
 
-"When I move my hand to her supple breast, her soft mewling fills my ears, along with the sound of our act."
-
-"The skin under my hand moves back and forth with each thrust, my grip on it tightening as my lust for the near-naked body of Lilly before me grows."
-
-"I can even feel her small nipple against my palm. My hand slides further and my fingers pluck it through the thin silk of her pajama top."
-
-"Her whimpering sounds turn to moans as she fills with the same pleasure as I. I can feel my heart beating loudly in my chest, and her own beating underneath my hand."
-
-"I can feel her hands clasp my wrists, their grip surprisingly tight as her chest rises in overwhelming pleasure."
+"I can feel her hands clasp my wrists, their grip surprisingly tight."
 
 label en_delewd_L26x:
 scene black
@@ -1482,7 +1094,7 @@ with Dissolve (0.7)
 
 window show
 
-"I can feel my chest tightening as I rock back and forth frantically, both of us entirely taken with ourselves."
+"I can feel my chest tightening, both of us entirely taken with ourselves."
 
 $ renpy.music.set_volume(0.4, 0.5, channel="music")
 
@@ -1670,7 +1282,7 @@ with charamove
 
 li "I'm sorry, Hisao. I shouldn't have pushed my desires onto you."
 
-hi "You don't need to apologize. I'd normally be fine, you've seen that much before."
+hi "You don't need to apologize."
 
 hi "I guess I shouldn't have tried to push myself so far."
 
