@@ -880,13 +880,219 @@ emi "I win!"
 
 "Her eyes twinkle mischievously. I've been thoroughly defeated, and by a girl that's a fraction of my size, at that."
 
-scene black
-with dissolve
+"Then again, being defeated doesn't seem quite so bad."
+
+scene bg school_dormemi
+with locationchange
+
+"I open my lips to speak, but Emi's head darts downwards before I can get so much as a word out. I give no resistance as she presses her mouth to mine, not that I'd want to."
+
+"This is… different, somehow."
+
+"She pulls back, nips at my lower lip, and reinitiates the embrace. Her tongue darts inside my mouth, exploring. I can feel a warmth spreading through my body as my heart begins to beat faster."
+
+"My mind starts to go foggy, then there's a giggle, and then—"
+
+scene evh emi_grinding_victory
+with locationchange
+
+"I stare up at a grinning Emi."
+
+emi "Told you. That makes my second win, now."
+
+hi "What? That doesn't count; you used feminine wiles."
+
+show evh emi_grinding_wink
+with charachange
+
+emi "'All's fair in love and war,' right?"
+
+emi "Ha, and you're even blushing! I didn't know you were a blusher, Hisao."
+
+hi "You were blushing too, you know. Probably because of your prudish ways."
+
+"Even I've got to admit this is a stupid thing to say to a woman who is currently straddling me and has been, up until a few seconds ago, playing tonsil hockey with me."
+
+show evh emi_grinding_grin
+with charachange
+
+emi "A prude, am I?"
+
+emi "Well then, let's see who blushes first, shall we?"
 
 label en_delewd_E20h:
 
+"With her eyes closed, her lips purse expectantly. I just manage to lift myself up for a few moments, our mouths seeking one another."
+
+"As I flop back down, my trousers are soaked with sweat. I would take them off if it didn't mean stopping what we're doing."
+
 label en_delewd_E20x:
 
+scene bg school_dormemi at right
+with locationchange
+
+show emi basic_closedgrin_close
+with vpunch
+
+emi "So… did I blush?"
+
+hi "I didn't notice."
+
+hi "Did I?"
+
+show emi basic_confused_close
+with charachange
+
+"Emi shrugs, still breathing a little heavily."
+
+show emi basic_grin_close
+with charachange
+
+emi "Didn't notice either."
+
+hi "Well, maybe we should—"
+
+play sound sfx_dooropen
+
+stop music fadeout 0.3
+
+show rin basic_deadpan behind emi:
+    center
+    xpos 1.0 xanchor 0.0 alpha 0.0 subpixel True
+    easein 0.5 right alpha 1.0
+show emi basic_shock_close
+with vpunch
+
+rin "I need to use your window."
+
+show rin basic_awayabsent:
+    right alpha 1.0
+with charachange
+
+show rin basic_absent
+with charachange
+
+show rin basic_awayabsent
+with charachange
+
+"Rin's eyes pass over Emi, and me, and focus on the window."
+
+show rin basic_deadpannormal
+with charachange
+
+rin "There was a cloud."
+
+play music music_comedy fadein 0.5
+
+show emi basic_grin_close
+with charachange
+
+emi "A cloud?"
+
+show rin basic_lucid
+with charachange
+
+"Rin nods."
+
+show rin relaxed_nonchalant
+with charachange
+
+rin "I was watching it from my window, but it didn't stay in my window."
+
+show rin negative_spaciness
+with charachange
+
+rin "So I need to use your window."
+
+show emi basic_closedgrin_close
+with charachange
+
+"Emi shifts a little, causing me to cough in order to cover up a giggle of my own."
+
+emi "How long do you need the window for?"
+
+emi "We're uh."
+
+show emi excited_amused_close
+with charachange
+
+emi "Busy."
+
+"This time I can't contain my laughter."
+
+show rin negative_annoyed
+with dissolvecharamove
+
+"Rin ignores both Emi and me and peers out the window."
+
+show rin basic_deadpanupset
+with charachange
+
+"Her shoulders slump, and she looks disappointed."
+
+rin "Hmm."
+
+rin "It changed into something else."
+
+rin "Disappointing."
+
+show emi basic_grin_close
+with charachange
+
+"Emi is having trouble keeping a straight face."
+
+emi "Sorry to hear that, Rin."
+
+show emi sad_pout_close
+with charachange
+
+emi "Could we have a little privacy now, please?"
+
+show rin relaxed_nonchalant
+with charachange
+
+with Pause(0.2)
+
+show rin relaxed_nonchalant:
+    easeout 1.0 xpos 1.0 alpha 0.0 xanchor 0.0 subpixel True
+with Pause(1.0)
+
+play sound sfx_doorclose
+
+hide rin
+with None
+
+"Rin shrugs, as if to say 'Can you?' and hooks her foot around the door, pulling it closed behind her."
+
+show emi excited_laugh_close
+with charachange
+
+"We both dissolve into raucous laughter, unable to deal with Rin's bizarrely timed visit any other way."
+
+"After our laughter dies down, I look to Emi."
+
+stop music fadeout 5.0
+
+hi "Well."
+
+show emi basic_grin_close
+with charachange
+
+"Emi raises an eyebrow."
+
+emi "Well?"
+
+hi "Again?"
+
+show emi excited_proud_close
+with charachange
+
+"Emi grins and laughs, and then she nods."
+
+$ suppress_window_after_timeskip = True
+
+scene black
+with dissolve
 
 # Storage Space (Emi Act 3 Shed)
 label en_delewd_E21:
