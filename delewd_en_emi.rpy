@@ -1112,17 +1112,7 @@ window show
 
 play music music_dreamy fadein 6.0
 
-"I feel sore."
-
 "The events of the previous evening suddenly intrude upon my consciousness, and I find myself blushing."
-
-"That was an eventful evening - and it explains perfectly the soreness in my lower back."
-
-"The walk back, as I recall, had been rather tense."
-
-"My trousers having been… soiled, I had washed them off in the bathroom before going back to my room."
-
-"But there was still a fairly obvious-looking stain on the front."
 
 "Fortunately for me, the only person I ran into on my way back was Kenji."
 
@@ -1174,8 +1164,6 @@ emi "All tuckered out?"
 
 "Well, at least she seems more like her old self."
 
-"And as expected, she doesn't seem that shy about mentioning our… previous activities."
-
 hi "Hey, you're lucky I could show up at all."
 
 hi "All that cardiovascular activity last night, I nearly thought I'd have to see the nurse afterwards."
@@ -1206,8 +1194,6 @@ hi "Oh."
 hi "{b}Oh.{/b}"
 
 "Now that she mentions it, it really is a legitimate concern."
-
-"I certainly hadn't thought of it last night, of course - other, more pressing concerns had been at hand."
 
 hi "Well, I don't think anything we, er, {b}do{/b} is going to be any more of a strain than these morning runs, and I handle those fine, so…"
 
@@ -1405,15 +1391,7 @@ play sound sfx_door_creak
 
 play sound sfx_rustling
 
-hide emi
-show eminude smile_close_ni at center
-with charachange
-
-"Well, at least we've got privacy now, which is a good thing as my hands work quickly to remove Emi's blouse and skirt."
-
-"I'm startled to discover that she's forgotten to put her bra on today. Did she plan this?"
-
-show eminude blush_close_ni
+show emi excited_sad_close_ni
 with charachange
 
 "Her arms hook under mine and rest on my shoulders as I kiss my way down Emi's neck, pausing to give special attention to a spot right where the neck meets the shoulder that I'd found last night."
@@ -1422,23 +1400,19 @@ emi "Y-you've gotten pretty good at th-hee!"
 
 hi "I do try."
 
-show eminude frown_close_ni
+show emi sad_depressed_close_ni
 with charachange
-
-"Emi pushes on my chest, insistently, and I draw back with a puzzled expression."
 
 emi "I've got a confession, Hisao."
 
 hi "Oh?"
 
-"Having pulled back, I decide instead to focus my attention on her breasts."
-
-show eminude blush_close_ni
+show emi excited_sad_close_ni
 with vpunch
 
 "As she attempts to speak, her words are interspersed with giggles that I find incredibly cute."
 
-show eminude wink_close_ni
+show emi basic_grin_close_ni
 with charachange
 
 emi "I don't ac-hee hee hee-actually w-woah! Wear gloves."
@@ -1449,23 +1423,23 @@ hi "Should've known…"
 
 "Words quickly become irrelevant."
 
-show eminude closedsmile_close_ni
+show emi basic_closedgrin_close_ni
 with vpunch
 
 "Emi's movements are almost frantic, as if she's been holding something back since we met this morning, and now she has an outlet."
 
 "I'm very nearly caught off guard by her aggressiveness, feeling her nearly rip my shirt off, the way she seems to vie to be in the dominant position."
 
-"For my part, I confess that I'm caught up in her attitude as well, fighting back, rolling and wrestling even as I caress her breasts, even as her fingers dig into my shoulders, and I lose track of where we are."
+"For my part, I confess that I'm caught up in her attitude as well, fighting back, rolling and wrestling, even as her fingers dig into my shoulders, and I lose track of where we are."
 
-show eminude blush_ni
+show emi excited_sad_close_ni
 with vpunch
 
 "So much so that I roll right off the mat and land on something small and rather hard."
 
 hi "Ow!"
 
-show eminude weaksmile_ni
+show emi sad_grin_close_ni
 with charachange
 
 "Emi, still flushed and breathing a little heavily, peers at me and bursts into laughter."
@@ -1484,21 +1458,21 @@ stop music fadeout 0.2
 
 play music music_running
 
-show eminude happy_ni
+show emi excited_laugh_close_ni
 with charachange
 
 "Emi's eyes shoot upwards and she begins, if possible, to laugh even harder."
 
 hi "Somehow, I don't think this is… this isn't track-related."
 
-show eminude closedsmile_ni
+show emi basic_closedgrin_close_ni
 with charachange
 
 emi "Oh man, I know whose that is!"
 
 hi "What?"
 
-show eminude wink_ni
+show emi excited_proud_close_ni
 with charachange
 
 emi "It's the track captain's!"
@@ -1507,33 +1481,33 @@ emi "It's the track captain's!"
 
 hi "How d'you know it's his?"
 
-show eminude awayfrown_ni
+show emi sad_shy_close_ni
 with charachange
 
 "It appears that I've asked a stupid question, or at least Emi thinks so."
 
-show eminude frown_ni
+show emi sad_annoyed_close_ni
 with charachange
 
 emi "Because he's the one who told me the track shed was a good place for… what did he call them?"
 
-show eminude pout_ni
+show emi sad_pout_close_ni
 with charachange
 
 emi "'Clandestine encounters.'"
 
 hi "Oh? He invite you to one or something?"
 
-show eminude happy_ni
+show emi excited_laugh_close_ni
 with charachange
 
 "Emi bursts into more laughter."
 
-"I confess the sight of a naked Emi laughing is oddly beautiful."
+"I confess the sight of Emi laughing is oddly beautiful."
 
 "I feel an eagerness to end conversation and get back to what we were doing, despite my rather pointed questioning."
 
-show eminude closedsmile_ni
+show emi basic_closedgrin_close_ni
 with charachange
 
 emi "Hisao, the track captain's gay."
@@ -1542,85 +1516,43 @@ emi "Hisao, the track captain's gay."
 
 hi "Really? And here I initially thought you two were a couple."
 
-show eminude awayfrown_ni
+show emi sad_pout_close_ni
 with charachange
 
 emi "Well… I did have a crush on him when I first joined up, but he wasn't interested."
 
-show eminude frown_ni
+show emi sad_annoyed_close_ni
 with charachange
 
 emi "Obviously."
 
-show eminude neutral_ni
+show emi sad_grin_close_ni
 with charachange
 
 emi "But we are good friends, I guess."
 
-show eminude grin_ni
-with charachange
-
-emi "I mean he told me about all this, you know."
-
-hi "I hesitate to ask,"
-
-"And really, I do. But I ask anyway."
-
-hi "But what does he need the uh… lube for, anyway?"
-
-hi "I mean, he doesn't… er…"
-
-"How the hell does Emi always manage to not blush?"
-
-show eminude wink_ni
-with charachange
-
-emi "Obviously he uses it for, you know."
-
-show eminude evil_ni
-with charachange
-
-emi "Anal."
-
-"I try to suppress a snicker."
-
-"I fail."
-
-show eminude happy_ni
-with charachange
-
-"Emi's giggling too."
-
 hi "And he {b}tells{/b} you about all this?"
 
-show eminude awayfrown_ni
+show emi sad_shy_close_ni
 with charachange
 
 "Emi shrugs."
 
-show eminude neutral_ni
+show emi sad_grin_close_ni
 with charachange
 
 emi "Yeah, of course."
 
 stop music fadeout 10.0
 
-show eminude closedsmile_ni
+show emi basic_closedgrin_close_ni
 with charachange
-
-emi "He's kinda wild about the whole thing."
-
-emi "Says it's a feeling that can't be beat."
 
 hi "Uh… huh."
 
-"The air in the track shed seems charged with some kind of horrible curiosity."
-
 hi "That's interesting."
 
-hi "I suppose I'll have to take his word for it."
-
-show eminude neutral_ni
+show emi basic_grin_close_ni
 with charachange
 
 emi "Well…"
@@ -1631,427 +1563,60 @@ emi "Well…"
 
 "Somewhere, a man is drinking a cup of coffee. He freezes with the cup at his lips."
 
-show eminude neutral_ni
-with charachange
-
-emi "We could…"
-
-extend " maybe…"
-
-show eminude blush_ni
-with charachange
-
-emi "Try it."
-
-play music music_one fadein 5.0
-
-"My jaw suddenly and spontaneously unhinges and hits the floor."
-
-hi "W-what?"
-
-"Emi is finally blushing, rubbing the back of her head ruefully."
-
-show eminude pout_ni
-with charachange
-
-emi "Well, it's just that we really can't… do what we did last night, you know?"
-
-emi "It would be a little… it wouldn't be safe, you know?"
-
-show eminude weaksmile_ni
-with charachange
-
-emi "I mean it wasn't exactly a great idea last night."
-
-show eminude closedsmile_ni
-with charachange
-
-emi "So you know, we could try this to see if it uh…"
-
-hi "Is as good?"
-
-show eminude weaksmile_ni
-with charachange
-
-emi "Well uh, yeah. Basically."
-
 hi "Huh."
 
 label en_delewd_E21h:
 
-scene evh emi_shed_base1
-show emi emi_shed_grin
-show hisao emi_shed_neutral
-show evh_l emi_shed_up
-show evh_r emi_shed_down
-with shorttimeskip
-
-emi "Careful!"
-
-hi "Are you sure about this?"
-
-"I'm positioned behind Emi, who is looking back over her shoulder, looking a little flushed."
-
-"Well obviously once we decided to go ahead with this idea, we had to get back into the mood."
-
-"That accomplished, we emptied the bottle of lube and…"
-
-"Here we are."
-
-show emi emi_shed_hesitant
-with charachange
-
-emi "Yes, I'm sure! Come on, before I calm down and think too much about this."
-
-"Emi's breathing is still coming a little heavily, and her response is almost impatient."
-
-"Which is to be expected, I suppose. We were both so close, and this is kind of delaying things."
-
-"I think we've both gone temporarily insane."
-
-"At least that's going to be my claim from here on out."
-
-"I try hard not to think about the specifics of what I'm about to get myself into."
-
-"There's no way this is going to be very clean."
-
-show evh emi_shed_base2
-show hisao emi_shed_closed
-with charachange
-
-"Taking a breath that is as much for me as it is for her, I enter slowly."
-
-"There's a lot of resistance, and it's like both our bodies are reluctant to actually go through with it."
-
-show emi emi_shed_shock
-with hpunch
-
-"Emi's whole body tenses, and as I'm only partially in by this point, it feels surprisingly good, if a bit odd."
-
-"Emi, on the other hand, looks uncomfortable."
-
-"The expression is almost comical."
-
-show hisao emi_shed_neutral
-with charachange
-
-hi "Should I stop?"
-
-"Emi's breath hitches in her throat, and it seems to take a few seconds longer than it should to formulate a reply."
-
-show emi emi_shed_closed
-with charachange
-
-emi "N-no, keep going. It just feels weird."
-
-"She giggles."
-
-"I can't blame her. I'm surprised that I even managed to form a sentence."
-
-show hisao emi_shed_closed
-with charachange
-
-"It's… hot."
-
-"Feels exceedingly odd."
-
-"The lube glistens unnaturally."
-
-"It makes me uncomfortable."
-
-"I continue to work my way inside her, working slowly and listening carefully to Emi's breathing."
-
-show evh emi_shed_base3
-show emi emi_shed_hesitant
-with charachange
-
-"I reach my limit and pause. Emi looks back again, biting her lower lip."
-
-emi "Are you going to try moving, or are we just going to sit here feeling silly?"
-
-show hisao emi_shed_neutral
-with charachange
-
-hi "No, I just wanted to give you a chance to adjust."
-
-"This doesn't make any sense."
-
-"How did we even decide to do this?"
-
-show emi emi_shed_grin
-with charachange
-
-emi "I don't think there's really any adjusting to this, Hisao."
-
-show emi emi_shed_hesitant
-with charachange
-
-emi "Try moving. Maybe it'll feel better?"
-
-"She sounds doubtful, but certainly unwilling to admit defeat now that we've come so far."
-
-show emi emi_shed_closed
-with charachange
-
-"I begin a slow motion that seems to work well for both myself and Emi, as she closes her eyes in an attempt to concentrate on this new feeling."
-
-"As I begin to find a rhythm, I begin to feel that familiar falling-away sensation I got yesterday."
-
-show hisao emi_shed_closed
-with charachange
-
-"I close my eyes and try to lose myself in the feeling, except…"
-
-"It doesn't seem right."
-
-"Emi's not making any noise."
-
-"I learned very quickly yesterday that Emi is somewhat less than quiet when she's enjoying herself."
-
-show hisao emi_shed_neutral
-with charachange
-
-"As I open my eyes, I see that Emi's trying to get into things, but it just doesn't seem to be working for her."
-
-"Her eyes are closed, and she's biting her lip, but it seems to be out of toleration rather than enjoyment."
-
-"A sort of 'well, this was a failure, but hopefully it'll be over soon' look."
-
-"I'm caught in a bit of a situation here."
-
-"In truth, I don't want to stop."
-
-"But at the same time, it doesn't seem to be doing much for Emi - or if it is, it's coming on far slower than I am."
-
-"I feel bad. I want Emi to enjoy this, too."
-
-show evh_r emi_shed_up
-show emi emi_shed_shock
-with charachange
-
-"I reach one arm around to tease at Emi's chest, which startles her."
-
-show hisao emi_shed_sweat
-with charachange
-
-"This in turn causes her to tighten around me considerably, causing a wave of pleasure to blindside me."
-
-show evh emi_shed_base4
-show hisao emi_shed_neutral
-show emi emi_shed_closed
-show evh_l emi_shed_down
-with charachange
-
-"My gasp seems to amuse Emi, but her grin quickly turns to a gasp as I move my other hand casually down her front and begin to stroke gently at the soft patch of hair between her legs."
-
-"The motion of my own hips increases as my hand's ministrations to Emi's front bring back the gasps and yelps that I'm used to."
-
-show hisao emi_shed_sweat
-with charachange
-
-"I concentrate only on the feelings of my hands, one now slick and sliding, the other on skin soft and responsive, goosebumps on her flesh, shivers and sweats, as her own building climax causes her to tighten, until finally I can't possibly—"
-
-"NoIcan'tpossibly"
-
-show hisao emi_shed_closed
-with charachange
-
-"OhgodI'msorryEmiI'mgoingto"
-
-"I give a final thrust, my fingers tense around Emi's nipples, dive between her legs."
-
-window hide
-
-play sound sfx_flash
-with SilentWhiteout(0.1,0.0,0.1)
-play sound sfx_flash
-with SilentWhiteout(0.1,0.0,0.4)
-with GenericWhiteout(0.5,1.0,4.0)
-
-window show
-
-"Emi's back spasms and she arches up, a high, girlish cry that echoes off the walls, and I feel the wave of my own climax annihilate all other sensations in my body."
-
-show evh_l emi_shed_up
-show evh_r emi_shed_down
-with charachange
-
-"Emi's arms give out and she falls forward, rather violently disengaging us and pulling something dear to me in the process."
 
 label en_delewd_E21x:
-
-
-play sound sfx_impact
-
-scene bg school_sportsstoreroom
-with vpunch
-
-"The sudden switch from pleasure to pain causes me to lose my balance, and I fall forward on top of Emi."
-
-stop music fadeout 2.0
-
-emi "Ow!"
-
-hi "Ow."
-
-"I quickly roll off Emi and prop myself up, breathing heavily and trying to ignore the pain in my crotch."
-
-"Emi yelps a little as she rolls over. She grabs a couple of the tissues we'd kept handy earlier, and cleans up before getting her panties back on and awkwardly leaning against a wall."
-
-"Still breathing heavily, I decide to sit against the wall next to her. The feeling of the cool concrete against my sweating back is a welcome sensation."
-
-show eminude sad_close_ni at center
-with charaenter
-
-emi "That {b}hurt{/b} at the end!"
-
-hi "Yeah, I uh…"
-
-hi "This was probably not a great idea."
-
-"Emi squirms in order to try and sit down beside me without too much pain. Judging by her wincing, it doesn't really work."
-
-show eminude pout_close_ni
-with charachange
-
-emi "Yeah, I'm going to have words with the captain."
-
-show eminude angry_close_ni
-with charachange
-
-emi "He was clearly lying."
 
 play music music_ease
 
 "The utter and absolute ridiculousness of the situation suddenly hits, and I begin laughing."
 
-show eminude happy_close_ni
+show emi basic_closedhappy_close_ni
 with charachange
 
 "Emi shakes her head and begins laughing with me."
 
-show eminude grin_close_ni
+show emi basic_grin_close_ni
 with charachange
 
 emi "Hey, Hisao."
 
 hi "Yeah?"
 
-show eminude pout_close_ni
-with charachange
-
-emi "We're never doing this again, right?"
-
-hi "Yeah, I think my curiosity is satisfied on this one."
-
-"Emi nods, satisfied."
-
-show eminude closedsmile_close_ni
-with charachange
-
-emi "Good."
-
-show eminude smile_close_ni
+show emi basic_closedgrin_close_ni
 with charachange
 
 emi "I think we should maybe stick to the basics, don't you?"
 
-show eminude blush_close_ni
+show emi sad_shyblush_close_ni
 with charachange
 
 emi "I mean most of this is new to me anyway."
 
 hi "What d'you mean, 'most?'"
 
-show eminude grin_close_ni
+show emi sad_grin_close_ni
 with charachange
 
 "Emi grins impishly."
 
-show eminude closedsmile_close_ni
+show emi excited_amused_close_ni
 with charachange
 
 emi "I'll never tell."
 
-"An unpleasant thought strikes me."
-
-"Even more unpleasant is the thought of having to ask Emi about it."
-
-"Still, after what we've just done, it should be a cakewalk."
-
-hi "Hey, is there a sink?"
-
-hi "I'd kinda like to, er."
-
-hi "Wash off a little."
-
-show eminude blush_close_ni
-with charachange
-
-"Emi's jaw drops."
-
-emi "In the {b}sink{/b}?"
-
-hi "Well, there's not really anywhere else to do it, is there?"
-
-hi "And it uh… I want to avoid a smell."
-
-hi "That the nurse might notice."
-
 "This is the most awkward conversation I have ever had."
 
-show eminude closedsmile_close_ni
-with charachange
-
-emi "You're right."
-
-show eminude grin_close_ni
-with charachange
-
-emi "Yeah, there's uh… It's on the back wall."
-
-show eminude smile_close_ni
-with charachange
-
-emi "There might be some soap, too."
-
-hi "Thanks."
-
-hide eminude
-with charaexit
-
-"There is in fact a little hand soap, which is better than nothing."
-
-"No towel, though. Guess I'll just have to drip dry."
-
-show eminude grin_ni at center
-with charaenter
-
-emi "All finished?"
-
-hi "Yeah, that'll do for now. It's not like I'm not going to take a shower after we see the nurse."
-
-show eminude weaksmile_ni
-with charachange
-
-emi "Glad to hear it."
-
-show eminude wink_ni
-with charachange
-
-emi "Now help me find my clothes. You tossed 'em somewhere."
-
-hi "Hey, you were no better! How am I supposed to explain that hole in my shirt, hmm?"
-
-show eminude closedsmile_ni
+show emi basic_closedgrin_close_ni
 with charachange
 
 emi "Heh, sorry. I got a little excited earlier."
 
 scene bg school_sportsstoreroom
 with shorttimeskip
-
-"It takes some time, but finally we're both more or less clothed."
 
 "There's a frantic moment where neither of us knows where Emi's wheelchair is, but I recall it going through the door and rescue it."
 
@@ -2060,55 +1625,10 @@ with charaenter
 
 emi "Now be more careful going through the door this time, would you?"
 
-show emiwheel awayfrown_close_ni
-with charachange
-
-emi "Bumps are not my friend right now."
-
-hi "I am so sorry we tried this."
-
-show emiwheel grin_close_ni
-with charachange
-
-"Emi shrugs and grins."
-
-show emiwheel wink_close_ni
-with charachange
-
-emi "Well, it was worth a shot, right?"
-
-show emiwheel closedsmile_close_ni
-with charachange
-
-emi "And anyway, it was good exercise, right?"
-
-"Can't argue that."
-
 scene bg school_nursehall
 with shorttimeskip
 
-"As we make our way up to the nurse's office, I notice that Emi keeps shifting uncomfortably in her seat."
-
-show emiwheel awayfrown
-with charachange
-
-emi "God, this feels weird."
-
-show emiwheel neutral
-with charachange
-
-emi "Good thing I'm in a wheelchair, Hisao."
-
-hi "Why's that?"
-
-show emiwheel weaksmile
-with charachange
-
-emi "Because, now I don't have to explain to the nurse why I'm walking funny."
-
-hi "Oh."
-
-hi "We're never doing this again."
+"We make our way up to the nurse's office."
 
 scene bg school_nurseoffice
 show nurse fabulous at center
@@ -2127,8 +1647,6 @@ with locationchange
 stop music fadeout 4.0
 scene bg school_dormhisao
 with locationskip
-
-"I shower for longer than usual, just to be sure I'm clean of our little 'experiment', and then collapse on my bed."
 
 "Class is in twenty minutes, so I can probably afford a nap."
 
@@ -2171,8 +1689,6 @@ with openeyefast
 "I am suddenly catapulted into wakefulness by both the fact that the knocking still hasn't stopped and the fact that it's noon."
 
 "On a school day."
-
-"Now fully awake, I can remember why I was napping."
 
 play sound sfx_doorknock
 
@@ -2489,6 +2005,21 @@ emi "What happened, hmmm?"
 hi "Fell asleep."
 
 hi "I actually didn't wake up until lunch, and only then because Kenji woke me up."
+
+show emi excited_amused
+with charachange
+
+emi "What had you so tired, hmm?"
+
+hi "Strenuous workout this morning. Slightly uncomfortable, too."
+
+show emi basic_closedhappy
+with charachange
+
+"Emi coughs, a half-laughing, half-embarrassed noise."
+
+show emi sad_pout
+with charachange
 
 "A yawn escapes her, and I raise an eyebrow."
 
