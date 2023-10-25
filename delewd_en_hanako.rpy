@@ -397,7 +397,7 @@ with whiteout
 ha "This is me. All… of me."
 
 show ev hanako_scars_large:
-    xalign 0.0 yalign 1.0 subpixel True
+    xalign 0.6 yalign 0.4 subpixel True
     acdc_warp 30.0 xalign 1.0 yalign 0.0
 with locationchange
 
@@ -438,17 +438,135 @@ ha "I know… that I'm not pretty… like Lilly. I just… wanted you… to see 
 hi "I've already seen the real you, though. You didn't need to take off your clothes for that."
 
 scene bg school_dormhanako_ss
-show hanagown smile_close_ss at center
 with locationchange
 
-"All thoughts though, are pushed aside as I see the wide smile forming on Hanako's face."
+"Her lips are open, just a little. She lets out a sharp breath as, without thinking, I breathlessly lean forwards and press my lips to hers."
+
+"The kiss only lasts for a fleeting moment before our faces part, our breathing quick and nervous. The feeling of Hanako's mouth lingers, and her eyes remain locked to mine."
+
+
+"Trembling a little myself, I remove my tie and begin undoing the buttons of my shirt. Hanako remains standing where she is, looking at the ground in front of her rather than watching me undress."
+
+"On the one hand, I'm thankful for that. I've always been somewhat self-conscious of my body, but my scarring has made that quite a lot worse. On the other, though, this atmosphere feels very strange."
+
+
+"My shirt falls to the floor in a heap, as untidy and crumpled as Hanako's blouse and skirt. Hanako's entire body visibly flinches at the sound of the zipper on my trousers being pulled down."
+
+"My trousers join my shirt on Hanako's floor next to the bed, as do my socks in short measure."
+
+hi "Hanako…"
+
+"She gives a nod without so much as glancing at me, and makes her way to the bed as I do. She walks as if her legs were wooden sticks. I'd find it amusing if I weren't doing exactly the same thing."
+
+"I take the initiative, turning around and sitting on the side of the bed. I look to her face to invite her to take a seat either next to me or in front of me, but end up awkwardly looking down to stop myself from staring at her body."
 
 label en_delewd_H29h:
 
+"I don't know which one of us is more apprehensive right now."
+
+"I push myself back onto the bed. For her part, she lies down with her head on her pillow, breathing heavily all the while."
+
+"Hanako lying in front of me, her chest heaving, her face flushed, and her eyes looking into mine… her scars just make her look all the more unique. I'm left without words that she'd allow me to see her like this."
+
+"I bring myself closer to her, closing my hands on her waist."
+
+"Hanako's entire body tenses as I bring myself closer to her, her eyes widening. She's… scared?"
+
+"I take a long breath, before realizing something I should have thought of before. I close my eyes and concentrate deeply."
+
+"My heart thumps away as I focus my mind on its beating. It's faster than usual, of course, but the beat is regular. I… think… I can keep it in check."
+
+ha "Are you… okay…?"
+
+"I open my eyes and look at her. I guess that must have looked pretty worrying to someone else watching me."
+
+hi "I'm okay. I was just making sure that I was."
+
+"She hesitates a little before nodding. She looks a little less afraid than before, so maybe showing her that I was also worried helped reassure her."
+
+"I lean over her and press my lips to hers, our tongues tentatively touching."
 
 label en_delewd_H29x:
 
+scene bg school_dormhanako_ni
+show white
+with Dissolve(3.0)
+
+window show
+
+"The sound of Hanako's breathing and my own rings in my ears, almost painfully loudly."
+
+stop music fadeout 10.0
+
+show white:
+    linear 10.0 alpha 0.0
+
+"As I hold myself over her, suddenly my arms almost give way and my vision distorts, as if someone's grabbed it and pulled sideways. I let myself fall sideways onto the bed beside Hanako, for fear of falling onto her instead."
+
+"We both lie beside each other, pressed against one another in order to fit on a bed made for a single person. My eyes try to focus on the ceiling, to not much success. Pulling a blanket over us to stave off the cold is all I can do."
+
+"The only sound in the room is that of our breathing."
+
+window hide
+
+play sound sfx_heartslow
+show heartattack alpha
+with Dissolve (0.1)
+
+hide heartattack alpha
+with Dissolve (0.8)
+
+window show
+
+"My vision slowly begins to return to normal as I continue to stare at the ceiling, but my limbs still feel like jelly. I try to concentrate on my chest, and find its beat irregular and mildly painful."
+
+window hide
+
+play sound sfx_heartslow
+show heartattack alpha
+with Dissolve (0.1)
+
+hide heartattack alpha
+with Dissolve (0.8)
+
+window show
+
+"This is a dangerous time. I have to think this through and not panic, lest I make my situation any worse."
+
+window hide
+
+play sound sfx_heartslow
+show heartattack alpha
+with Dissolve (0.1)
+
+hide heartattack alpha
+with Dissolve (0.8)
+
+window show
+
+"With a huge effort, I take control of my erratic breathing, forcing myself to make long, deep breaths. I count half a dozen before I start to feel physically calm again, and press my hand to my chest to assure myself."
+
+"My heartbeat's back to normal. I'm okay."
+
+scene ev hanako_after_worry
+with locationchange
+
+play music music_twinkle fadein 1.0
+
+"I turn my face towards Hanako, who's already looking at me. There's definitely a look of concern. She's realized what happened."
+
+hi "I'm… okay. Everything's… back to normal."
+
+"I find myself barely able to get the words out between breaths. Why did my body have to do this right now?"
+
+scene ev hanako_after_smile
+with charachange
+
+"All thoughts of my heart, though, are pushed aside as I see the wide smile forming on Hanako's face."
+
 "As always, I smile back without another thought. Hanako's smile has always been infectious in its almost childlike sweetness and earnesty, something that sets her apart from anyone else I know."
+
+"Right now… we don't need words. Everything we want to communicate to each other, we can share just fine without them."
 
 stop music fadeout 2.0
 
