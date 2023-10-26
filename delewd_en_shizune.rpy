@@ -46,9 +46,141 @@ ssh "It's not like that was my favorite restaurant… I have others I like. I mi
 
 his "Really…"
 
+show shizu adjust_frown_cas_close
+with charachange
+
+ssh "This chair is so hard. I want to sit on the bed."
+
+"Motioning to her to go ahead, I wait for her to get off the chair and take her place when she does. Though I didn't intend for it to be, she finds it amusing."
+
+show shizu behind_smile_cas_close
+with charachange
+
+stop music fadeout 5.0
+
+ssh "Close your eyes."
+
+his "Why?"
+
+show shizu adjust_smug_cas_close
+with charachange
+
+ssh "It's a surprise."
+
+show black
+with shuteye
+
+"I decide to humor her and close them. I can feel her leaning over me, and suddenly, something soft and moist touches my lips. My body tenses up in surprise. Fortunately, not as awkward a reaction as I could have made."
+
+"It was just a quick peck, and I almost think that's the end of it, but then she kisses me again, more deeply this time. Her hands slide onto my shoulders, up to my neck, and then back down again. Then across my shoulders and down my arms."
+
+"I can feel the weight of her body on my legs. At this point, I'm ready to try and open my eyes just a crack, but as if expecting it, she puts her fingers on my eyelids."
+
+play sound sfx_rustling
+
+"Seconds later, something ties my hands together at the wrists, and I panic, not knowing what to make of this. My first thought is to ask Shizune what she's thinking. Even though she can't hear me, I'm sure she gets the gist of it."
+
+"She won't let go of my hands, tracing her fingers over them, from the lines of my palms, over my knuckles, and to my wrists."
+
+scene evh shizune_hcg_tied_stare:
+    yalign 0.0 xalign 1.0 subpixel True
+    easein 6.0 xalign 0.5 zoom 0.5
+    truecenter
+    zoom 1.0
+    "evh shizune_hcg_tied_stare_small"
+with whiteout
+
+play music music_heart fadein 5.0
+
+hi "Hey, what are you doing? What's this?"
+
+"Or course, with my hands tied behind my back, I might as well be gagged. A part of me can't help but think that this is what she intended."
+
+scene evh shizune_hcg_tied_smile_small
+with charachange
+
+"As if reading my thoughts, a mischievous expression lights up her face, but her blushing doesn't fade. In fact, it only deepens when our eyes meet."
+
+"Embarrassed, she leans deeper into our partial embrace, hiding her face by burying it in my shoulder and neck. Her hair is soft and tickles me, and I let out a laugh knowing that she won't hear me; won't be offended."
+
 label en_delewd_S22h:
 
+scene evh shizune_hcg_tied_blush_small
+with charachange
+
+"Shizune almost falls off me from nervousness."
+
+"The sudden display of naivety is the starkest contrast yet to how forward she has been so far, and I find it amusing. Suddenly, she seems very immature again. A high-school girl playing the role of a more aggressive woman."
+
+scene evh shizune_hcg_tied_stare:
+    yalign 0.0 xalign 0.8
+show evh_hi shizune_hcg_tied_hisao2:
+    yalign 0.0 xalign 0.8
+# hide evh_hi
+with charachange
+
+"It's likely Shizune is as nervous as I am, but then I think about what's next to come."
+
+"She might try and unbutton my shirt. Who knows what she would say, seeing the scar on my chest. I'm still self-conscious about it, and I can imagine the concern on her face on seeing it; the tenting of her fingers in thought."
+
+
+"Luckily, in this position, she couldn't take off my sweater without ripping it off me. The fear fades from my mind. Now, I'm only experiencing a strange, uncomfortable mix of anticipation and nervousness."
+
+show evh shizune_hcg_tied_blush
+with charachange
+
+"I wonder exactly when it was that I started being attracted to her. Not just attracted to her physically, but drawn to her. And, I wonder why. She's pretty, but then, also very combative. Not just that, but she seems to like being that way."
+
+scene evh shizune_hcg_tied_blush_small
+with charachange
+
+"The way she's acting now, however, and at other times, doesn't really fit that image. I'm starting to think that maybe her tying my hands might have been for more reasons than just the most obvious."
+
+"Still, that aggressiveness that she flashes around as comfortably as a business card is real. I don't know whether or not that kind of attitude could be considered dangerous. If it is, I wonder what kind of person that makes me."
+
+hi "It was probably the first week I was here. A week doesn't sound so long when I think about it, but at the time it did. Even though I pretty much thought my days were numbered that week, it still seemed to go by so slowly."
+
+"Even if she can't hear me, it puts me at ease."
+
+hi "I started to realize that I didn't have that much to complain about. But there's still…"
+
+hi "Well, never mind."
+
+scene evh shizune_hcg_tied_stare_small
+with charachange
+
+"She glances at me, for no reason other than that I'm talking. Because she can't understand what I'm saying, Shizune becomes increasingly flustered, but doesn't sign anything in reply."
+
+scene evh shizune_hcg_tied_close:
+    yalign 0.1 xalign 0.8
+show evh_hi shizune_hcg_tied_hisao2:
+    yalign 0.1 xalign 0.8
+with Dissolve(2.0)
+
+"I attempt to kiss her, but only manage to succeed in touching our foreheads together, at least not painfully."
+
+"My thoughts wander briefly to whether or not the door is locked. If it were to open now, I'd probably have a heart attack, literally. And then there's the question of who would be opening the door."
+
 label en_delewd_S22x:
+
+hide evh_hi
+with charachange
+
+"Her glasses are slightly askew, and this is the first time she isn't messing around with them in some way. I want to straighten them for her, but the second I try, I'm reminded that I can't. Shizune seems to have forgotten it as well."
+
+stop music fadeout 7.0
+
+scene evh shizune_hcg_tied_blush_small:
+    truecenter
+    subpixel True zoom 1.2
+    easein 10.0 zoom 1.0
+with Dissolve(2.0)
+
+"Instead of getting up, she presses herself against me in the chair to extend her reach. It's almost as if this is the only position she can think to untie my hands from. That is what I think as I feel her unbinding my wrists."
+
+"However, she doesn't get off me. Her fingers gently stroke against mine, occasionally bending inwards to run over my palms. It's funny, but I feel more connected to Shizune through this simple act than before."
+
+"Shizune stays pressed against me like this for some time. It's a little uncomfortable, but it makes me feel happy, as if I could stay like this for hours."
 
 scene black
 with dissolve
