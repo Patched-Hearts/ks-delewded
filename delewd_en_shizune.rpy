@@ -664,12 +664,138 @@ with charachange
 
 ssh "Anyway, I don't consider it goodbye. But it's still an event. You still have to go through the proper motions."
 
+show shizu behind_blank
+with charachange
+
+stop music fadeout 4.0
+
+ssh "Aren't you going to?"
+
+his "Aren't I going to what?"
+
+show shizu basic_normal
+with charachange
+
+ssh "Kiss me, of course."
+
+his "Is that 'the proper motions?'"
+
+show shizu behind_blank
+with charachange
+
+ssh "It would be normal, wouldn't it? The natural thing to do."
+
+"It's time to act decisively. If I don't, I'm sure my heart will explode."
+
+show shizu adjust_blush_close
+with charachange
+
+"I kiss her immediately, so quickly that I don't even have time to enjoy it. Even though she was prepared for it, Shizune blushes a deep red. I feel a similar heat rising in my neck and cheeks."
+
+play music music_one fadein 4.0
+
+scene evh shizu_undressing_clothed_stare
+with whiteout
+
+"I move in for another kiss, but as I do so, she moves backwards at the same time and impishly jumps onto the cabinet behind her. Alone, in the total silence of the room, we just look at each other for a while."
+
+show evh shizu_undressing_clothed_kiss
+with charachange
+
+"This time, I kiss her more deeply. Her lips are light and dry, and open a tiny bit. I'm only able to appreciate the sensation for a moment before Shizune starts kissing me back forcefully."
+
+"Her bangs brush against my closed eyelids as I let myself sink deeper into the kiss. I can feel the shape of her body through her clothes, which only makes me hold Shizune tighter."
+
+show evh shizu_undressing_clothed_blush
+with charachange
+
+"It takes some effort for the both of us to draw back from each other. We're both blushing."
+
+show evh shizu_undressing_clothed_kiss
+with charachange
+
+"Shizune surprises me by quickly pulling me in for a deep kiss without warning, but I quickly return the gesture."
+
+show evh shizu_undressing_clothed_blush
+with charachange
+
+ssh "Why are you bolder today than on the roof?"
+
+ssh "Or in your room?"
+
+"I try to think of a good answer, but it isn't easy. How would I be able to respond to that even if I could? There's no way to, unless I were to say that bureaucracy really puts me in the mood."
+
+scene bg school_council_ni
+with locationchange
+with vpunch
+
+"I move in for another kiss and begin to slide my hand up her side, but she suddenly lurches forwards, making me stumble backward."
+
+"The stiff edge of the table behind me was the furthest thing from my mind, until I feel it stabbing into my lower back. I hadn't even noticed it was there. It makes me grab Shizune a little tighter as we fall back onto the surface of the table."
+
 label en_delewd_S35h:
 
+"I hold back a sigh as Shizune victoriously holds herself above me. She's won again."
+
+"I end up laughing, despite how hard I try not to, and it's contagious enough that Shizune starts to as well."
+
+"The table under us rattles under our combined weight. I doubt it would collapse, but the noise is really something."
+
+"Suddenly, she stops, almost falling onto me with enough speed that if she didn't catch herself, it would probably have knocked us unconscious. The worst situation possible, if someone happened to walk in while we were knocked out."
+
+"Shizune lets out her breath sheepishly, realizing it at the same time as I do."
+
+show shizu behind_blank
+with charaenter
+
+ssh "Sorry, I tripped, or slipped, or something like that."
+
+his "I had a thought, is the door unlocked?"
+
+hide shizu
+with charaexit
+
+"She quickly gets off the table and bolts over to check, and locks it, unlocks it, and locks it again, pulling on the knob just to make sure. When she's finally sure, she makes an out-of-place motion with her hands."
+
+show shizu behind_smile
+with charaenter
+
+ssh "Safe!"
+
+his "I'm glad you can take things so lightly."
+
+show shizu behind_frown
+with charachange
+
+ssh "I didn't do it on purpose. Why don't you take the lead, then?"
+
+show shizu behind_smile
+with charachange
+
+ssh "Come on."
+
+hide shizu
+with charaexit
+
+"I grab Shizune by the shoulders and try to put her onto the table instead. Her brow scrunches in displeasure as the edge of the table pokes her in the back, just as it did to me. She opts to help herself up onto it."
+
+"I run my hands along the curve of her body, from her shoulders on down."
+
+"She squirms under me and twists her arms around mine instead, gripping my fingers and drawing me closer. It feels like I'm wrestling her; the lock is inescapable."
+
+"From the first time our hands met, I guess we were connected."
+
+"Whether it's through her pulling me from one student council event to another, or holding hands as lovers, I think it's been the same, the confidence that comes across in the way she grasps my hand."
+
+stop music fadeout 4.0
+
+"For Shizune's part, she smiles almost dreamily."
+
+"The sight makes me smile as well."
 
 label en_delewd_S35x:
 scene bg school_council_ni
-with locationchange
+with shorttimeskip
 
 show shizu behind_smile
 with charaenter
