@@ -201,25 +201,37 @@ with vpunch
 
 "Misha takes my silence as agreement, and squeezes herself against me tightly, as if she is trying to get into my clothes. My arms are enveloped by the softness of her skin and the warmth of her body. I roll over on reflex, and end up on top of her."
 
-"She looks at me, as if expecting me to take the lead, and closes her eyes nervously the second I return her gaze. I guess I have no choice, and I clumsily begin trying to undress her, something I've never done before."
+hide mishashort
+with None
+
+"She looks at me, as if expecting me to take the lead, and closes her eyes nervously the second I return her gaze."
 
 label en_delewd_S28h:
 
+"Her figure is curvier than I expected, and complements her cute face."
+
+"Her eyes are open now, and I run my hand up the inside of her thigh, almost laughing when she shudders and nearly crushes it when she tightens her legs. A genuine reaction, and a cute one."
+
+"Shizune was better at hiding her inexperience, even though she was just as embarrassed."
+
+"Grabbing at my shoulders, she pulls herself against me, joining us more tightly together."
+
+"Her hands grip each other around my back, and I feel her elbows digging into the space under my ribs."
+
+mi "Hnn~…"
+
+"Her voice is so quiet and breathy that I have trouble understanding her, but the tone of sadness permeating it is unmistakable, and only makes me feel guiltier."
+
+"I'm supposed to be comforting her, but it's entirely physical, and if Misha is being reassured in any way by this, she isn't showing it. That makes me question whether my decision was the right one. I'm really starting to doubt it."
+
+"Despite that, her soft cooing in my ear makes me keep going. Her leg twisting around mine, she tenses up, her smooth neck rubbing across my cheek."
+
 stop music fadeout 6.0
 
-scene black
-with dissolve
-
-"..."
-
-"..."
-
-"..."
-
-scene bg school_dormhisao
+scene bg school_dormhisao_ss
 with shorttimeskip
 
-"It takes her a minute to separate herself from me. It gives me an opportunity to see her body fully, her pink skin blushing bright red and dabbed with sweat. I feel cold."
+"It takes her a minute to separate herself from me. I feel cold."
 
 mi "…Hicchan?"
 
