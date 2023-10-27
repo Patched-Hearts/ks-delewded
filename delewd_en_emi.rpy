@@ -880,23 +880,778 @@ emi "I win!"
 
 "Her eyes twinkle mischievously. I've been thoroughly defeated, and by a girl that's a fraction of my size, at that."
 
-scene black
-with dissolve
+"Then again, being defeated doesn't seem quite so bad."
+
+scene bg school_dormemi
+with locationchange
+
+"I open my lips to speak, but Emi's head darts downwards before I can get so much as a word out. I give no resistance as she presses her mouth to mine, not that I'd want to."
+
+"This is… different, somehow."
+
+"She pulls back, nips at my lower lip, and reinitiates the embrace. Her tongue darts inside my mouth, exploring. I can feel a warmth spreading through my body as my heart begins to beat faster."
+
+"My mind starts to go foggy, then there's a giggle, and then—"
+
+scene evh emi_grinding_victory
+with locationchange
+
+"I stare up at a grinning Emi."
+
+emi "Told you. That makes my second win, now."
+
+hi "What? That doesn't count; you used feminine wiles."
+
+show evh emi_grinding_wink
+with charachange
+
+emi "'All's fair in love and war,' right?"
+
+emi "Ha, and you're even blushing! I didn't know you were a blusher, Hisao."
+
+hi "You were blushing too, you know. Probably because of your prudish ways."
+
+"Even I've got to admit this is a stupid thing to say to a woman who is currently straddling me and has been, up until a few seconds ago, playing tonsil hockey with me."
+
+show evh emi_grinding_grin
+with charachange
+
+emi "A prude, am I?"
+
+emi "Well then, let's see who blushes first, shall we?"
 
 label en_delewd_E20h:
 
+"With her eyes closed, her lips purse expectantly. I just manage to lift myself up for a few moments, our mouths seeking one another."
+
+"As I flop back down, my trousers are soaked with sweat. I would take them off if it didn't mean stopping what we're doing."
+
 label en_delewd_E20x:
 
+scene bg school_dormemi at right
+with locationchange
+
+show emi basic_closedgrin_close
+with vpunch
+
+emi "So… did I blush?"
+
+hi "I didn't notice."
+
+hi "Did I?"
+
+show emi basic_confused_close
+with charachange
+
+"Emi shrugs, still breathing a little heavily."
+
+show emi basic_grin_close
+with charachange
+
+emi "Didn't notice either."
+
+hi "Well, maybe we should—"
+
+play sound sfx_dooropen
+
+stop music fadeout 0.3
+
+show rin basic_deadpan behind emi:
+    center
+    xpos 1.0 xanchor 0.0 alpha 0.0 subpixel True
+    easein 0.5 right alpha 1.0
+show emi basic_shock_close
+with vpunch
+
+rin "I need to use your window."
+
+show rin basic_awayabsent:
+    right alpha 1.0
+with charachange
+
+show rin basic_absent
+with charachange
+
+show rin basic_awayabsent
+with charachange
+
+"Rin's eyes pass over Emi, and me, and focus on the window."
+
+show rin basic_deadpannormal
+with charachange
+
+rin "There was a cloud."
+
+play music music_comedy fadein 0.5
+
+show emi basic_grin_close
+with charachange
+
+emi "A cloud?"
+
+show rin basic_lucid
+with charachange
+
+"Rin nods."
+
+show rin relaxed_nonchalant
+with charachange
+
+rin "I was watching it from my window, but it didn't stay in my window."
+
+show rin negative_spaciness
+with charachange
+
+rin "So I need to use your window."
+
+show emi basic_closedgrin_close
+with charachange
+
+"Emi shifts a little, causing me to cough in order to cover up a giggle of my own."
+
+emi "How long do you need the window for?"
+
+emi "We're uh."
+
+show emi excited_amused_close
+with charachange
+
+emi "Busy."
+
+"This time I can't contain my laughter."
+
+show rin negative_annoyed
+with dissolvecharamove
+
+"Rin ignores both Emi and me and peers out the window."
+
+show rin basic_deadpanupset
+with charachange
+
+"Her shoulders slump, and she looks disappointed."
+
+rin "Hmm."
+
+rin "It changed into something else."
+
+rin "Disappointing."
+
+show emi basic_grin_close
+with charachange
+
+"Emi is having trouble keeping a straight face."
+
+emi "Sorry to hear that, Rin."
+
+show emi sad_pout_close
+with charachange
+
+emi "Could we have a little privacy now, please?"
+
+show rin relaxed_nonchalant
+with charachange
+
+with Pause(0.2)
+
+show rin relaxed_nonchalant:
+    easeout 1.0 xpos 1.0 alpha 0.0 xanchor 0.0 subpixel True
+with Pause(1.0)
+
+play sound sfx_doorclose
+
+hide rin
+with None
+
+"Rin shrugs, as if to say 'Can you?' and hooks her foot around the door, pulling it closed behind her."
+
+show emi excited_laugh_close
+with charachange
+
+"We both dissolve into raucous laughter, unable to deal with Rin's bizarrely timed visit any other way."
+
+"After our laughter dies down, I look to Emi."
+
+stop music fadeout 5.0
+
+hi "Well."
+
+show emi basic_grin_close
+with charachange
+
+"Emi raises an eyebrow."
+
+emi "Well?"
+
+hi "Again?"
+
+show emi excited_proud_close
+with charachange
+
+"Emi grins and laughs, and then she nods."
+
+$ suppress_window_after_timeskip = True
+
+scene black
+with dissolve
 
 # Storage Space (Emi Act 3 Shed)
 label en_delewd_E21:
 
+window hide None
+
+play sound sfx_alarmclock
+
+with Pause(2.0)
+
+scene bg school_dormhisao
+with openeye
+
+window show
+
+"The sunlight breaks through my window shortly before my alarm ruins the morning silence."
+
+play music music_dreamy fadein 6.0
+
+"The events of the previous evening suddenly intrude upon my consciousness, and I find myself blushing."
+
+"Fortunately for me, the only person I ran into on my way back was Kenji."
+
+"And he didn't notice a thing."
+
+"Well, apart from my being in the general vicinity."
+
+"Of course he'd asked how the night went, and whether or not I'd learned anything of importance."
+
+"I don't even know if I opened my mouth to answer; I was too tired to care."
+
+"And this morning, I'll admit that I'm feeling pretty worn out."
+
+"Still, Emi had promised to meet me at the track, and I'd hate to disappoint."
+
+scene bg school_track
+show emiwheel weaksmile at center
+with locationskip
+
+"She is indeed waiting for me when I arrive."
+
+"Doing her best to look cheery, despite the fact that she's sitting in a wheelchair."
+
+"I wave to her and begin stretching."
+
+hi "You're early."
+
+show emiwheel frown
+with charachange
+
+"Emi frowns and shakes her head."
+
+show emiwheel angry
+with charachange
+
+emi "Ridiculous."
+
+emi "{b}You're{/b} late."
+
+show emiwheel grin
+with charachange
+
+emi "Overslept, Hisao?"
+
+show emiwheel wink
+with charachange
+
+emi "All tuckered out?"
+
+"Well, at least she seems more like her old self."
+
+hi "Hey, you're lucky I could show up at all."
+
+hi "All that cardiovascular activity last night, I nearly thought I'd have to see the nurse afterwards."
+
+show emiwheel wink
+with charachange
+
+"Emi laughs out loud, then her face suddenly becomes concerned."
+
+show emiwheel blush
+with charachange
+
+stop music fadeout 8.0
+
+emi "Hey, that's not uh…"
+
+emi "I mean, you're not…"
+
+hi "Go on, spit it out."
+
+show emiwheel awayfrown
+with charachange
+
+emi "It's just that it would be hard to explain if you had an episode while we were…"
+
+hi "Oh."
+
+hi "{b}Oh.{/b}"
+
+"Now that she mentions it, it really is a legitimate concern."
+
+hi "Well, I don't think anything we, er, {b}do{/b} is going to be any more of a strain than these morning runs, and I handle those fine, so…"
+
+show emiwheel frown
+with charachange
+
+"Emi considers this point."
+
+show emiwheel evil
+with charachange
+
+"A devious light appears in her eyes."
+
+play music music_emi fadein 2.0
+
+emi "Say…"
+
+hi "Hmm?"
+
+show emiwheel grin
+with charachange
+
+"The light vanishes, and Emi grins ruefully at me."
+
+"I can't help but feel vaguely suspicious."
+
+show emiwheel happy
+with charachange
+
+emi "I seem to have forgotten a pair of gloves."
+
+hi "What do you need gloves for?"
+
+show emiwheel smile
+with charachange
+
+"Emi indicates the chair upon which she is seated."
+
+emi "For this, of course!"
+
+show emiwheel wink
+with charachange
+
+emi "Sure, regular moving around is all well and good without 'em, but I want to be able to get a good workout."
+
+show emiwheel grin
+with charachange
+
+emi "And to get that kind of speed, you gotta have gloves if you don't want blisters."
+
+hi "So what, are you wussing out on me then? Do I have to go it alone?"
+
+show emiwheel awayfrown
+with charachange
+
+"Emi thinks for a minute - or pretends to think."
+
+show emiwheel closedsmile
+with charachange
+
+emi "Hmm… if I remember right, there's a spare pair or two in the track shed."
+
+"So she does seriously want to do it, then."
+
+"But in her normal school uniform? I'd have expected her to wear her gym outfit for something like this."
+
+hi "Wait, what are they doing there?"
+
+show emiwheel frown
+with charachange
+
+"Emi looks askance at me."
+
+emi "Seriously? You can't think of why a shed full of track supplies at a school for the disabled would have racing gloves?"
+
+"Well, when she puts it that way, I suppose that makes perfect sense."
+
+hi "Hey, I'm still getting used to this place. Give me a break, huh?"
+
+show emiwheel grin
+with charachange
+
+emi "I guess I can let it slide this time."
+
+show emiwheel wink
+with charachange
+
+emi "Now come on, I'll need your help."
+
+"I can't imagine what for, but then again I didn't have a clue why racing gloves would be in the shed, so I'm not willing to press the issue."
+
+scene bg school_sportsstoreext
+with locationchange
+
+"Emi navigates her way to the shed easily enough, though I can hear her grumbling under her breath."
+
+"It's actually kinda cute."
+
+"I hurry a little to reach the door first. Opening it will be easier for me than for her."
+
+play sound sfx_door_creak
+
+show emiwheel neutral:
+    center
+    xpos 0.4
+    easein 0.5 xpos 0.5
+with charaenter
+
+
+"The door opens, and Emi starts to wheel inside, only to come to a sudden halt at the doorway."
+
+"It seems the doorsill is slightly too high for her to get over by herself."
+
+show emiwheel awayfrown:
+with charachange
+
+show emiwheel awayfrown:
+    center
+    ease 0.4 xpos 0.45
+    easeout 0.2 xpos 0.5
+    ease 0.4 xpos 0.45
+    easeout 0.2 xpos 0.5
+    ease 0.4 xpos 0.45
+    easeout 0.2 xpos 0.5
+    ease 0.4 xpos 0.45
+    ease 0.2 xpos 0.5
+with Pause(1.0)
+
+"She makes a few runs at it, unsuccessfully, before crossing her eyes and glaring at the offending object."
+
+show emiwheel angry at center
+with charaenter
+
+emi "Stupid wheelchair."
+
+show emiwheel frown
+with charachange
+
+emi "Hisao, can you give me a hand here?"
+
+hi "Sure, no problem."
+
+scene bg school_sportsstoreroom
+with locationchange
+
+"It's a simple enough matter for me to bump Emi over the doorway, jostling her slightly."
+
+show emiwheel blush_close_ni at center
+with charaenter
+
+emi "Hey, easy there!"
+
+hi "Whoops! Sorry."
+
+"It's at about this time that I fail to notice where I'm going and run Emi's chair into a mat."
+
+play sound sfx_impact
+
+show expression im.Composite((425,1200), (0,0), night("sprites/emiwheel/close/emiwheel_blush_close.png")) as emiwheel:
+    xalign 0.5 yanchor 0.5 ypos 1.0 subpixel True
+    easeout 0.5 ypos 1.4 rotate 70
+
+with vpunch
+
+hide emiwheel
+with None
+
+"She gives a startled yelp and topples forward out of her chair."
+
+"There's a moment of silence as I gaze in horror upon what I've done, and Emi glares at me."
+
+emi "Hisao…"
+
+hi "Yes?"
+
+emi "Promise me you'll never work at a hospital."
+
+hi "Sorry! I didn't mean to!"
+
+"Emi giggles, and holds up a hand."
+
+emi "Would you kindly help me back into my chair, Hisao?"
+
+show emi basic_closedgrin_close_ni:
+    center
+    ypos 1.2
+    easein 0.5 ypos 1.0
+with charaenter
+
+"As I bend down to pick up Emi, she grins in triumph and pulls me into a kiss that quickly has us both entirely unconcerned about getting her back into the chair."
+
+play sound sfx_door_creak
+
+"In fact, as I move to a more comfortable position, I confess that the chair is pushed out the door, which, startled by the passage, swings shut."
+
+play sound sfx_rustling
+
+show emi excited_sad_close_ni
+with charachange
+
+"Her arms hook under mine and rest on my shoulders as I kiss my way down Emi's neck, pausing to give special attention to a spot right where the neck meets the shoulder that I'd found last night."
+
+emi "Y-you've gotten pretty good at th-hee!"
+
+hi "I do try."
+
+show emi sad_depressed_close_ni
+with charachange
+
+emi "I've got a confession, Hisao."
+
+hi "Oh?"
+
+show emi excited_sad_close_ni
+with vpunch
+
+"As she attempts to speak, her words are interspersed with giggles that I find incredibly cute."
+
+show emi basic_grin_close_ni
+with charachange
+
+emi "I don't ac-hee hee hee-actually w-woah! Wear gloves."
+
+"My own reply is rather mumbled onto her chest instead of being addressed to her face."
+
+hi "Should've known…"
+
+"Words quickly become irrelevant."
+
+show emi basic_closedgrin_close_ni
+with vpunch
+
+"Emi's movements are almost frantic, as if she's been holding something back since we met this morning, and now she has an outlet."
+
+"I'm very nearly caught off guard by her aggressiveness, feeling her nearly rip my shirt off, the way she seems to vie to be in the dominant position."
+
+"For my part, I confess that I'm caught up in her attitude as well, fighting back, rolling and wrestling, even as her fingers dig into my shoulders, and I lose track of where we are."
+
+show emi excited_sad_close_ni
+with vpunch
+
+"So much so that I roll right off the mat and land on something small and rather hard."
+
+hi "Ow!"
+
+show emi sad_grin_close_ni
+with charachange
+
+"Emi, still flushed and breathing a little heavily, peers at me and bursts into laughter."
+
+emi "I'm sorry, I'm sorry. Are you all right?"
+
+hi "Yeah, I think so. Not sure what I landed on, though…"
+
+"I reach under my back and pull the offending object out, inspecting it closely."
+
+stop music fadeout 0.2
+
+"'Personal lubricant. Lemon-flavored.'"
+
+"Wait, what?"
+
+play music music_running
+
+show emi excited_laugh_close_ni
+with charachange
+
+"Emi's eyes shoot upwards and she begins, if possible, to laugh even harder."
+
+hi "Somehow, I don't think this is… this isn't track-related."
+
+show emi basic_closedgrin_close_ni
+with charachange
+
+emi "Oh man, I know whose that is!"
+
+hi "What?"
+
+show emi excited_proud_close_ni
+with charachange
+
+emi "It's the track captain's!"
+
+"Ah, my old nemesis. Or, kind of."
+
+hi "How d'you know it's his?"
+
+show emi sad_shy_close_ni
+with charachange
+
+"It appears that I've asked a stupid question, or at least Emi thinks so."
+
+show emi sad_annoyed_close_ni
+with charachange
+
+emi "Because he's the one who told me the track shed was a good place for… what did he call them?"
+
+show emi sad_pout_close_ni
+with charachange
+
+emi "'Clandestine encounters.'"
+
+hi "Oh? He invite you to one or something?"
+
+show emi excited_laugh_close_ni
+with charachange
+
+"Emi bursts into more laughter."
+
+"I confess the sight of Emi laughing is oddly beautiful."
+
+"I feel an eagerness to end conversation and get back to what we were doing, despite my rather pointed questioning."
+
+show emi basic_closedgrin_close_ni
+with charachange
+
+emi "Hisao, the track captain's gay."
+
+"Huh."
+
+hi "Really? And here I initially thought you two were a couple."
+
+show emi sad_pout_close_ni
+with charachange
+
+emi "Well… I did have a crush on him when I first joined up, but he wasn't interested."
+
+show emi sad_annoyed_close_ni
+with charachange
+
+emi "Obviously."
+
+show emi sad_grin_close_ni
+with charachange
+
+emi "But we are good friends, I guess."
+
+hi "And he {b}tells{/b} you about all this?"
+
+show emi sad_shy_close_ni
+with charachange
+
+"Emi shrugs."
+
+show emi sad_grin_close_ni
+with charachange
+
+emi "Yeah, of course."
+
+stop music fadeout 10.0
+
+show emi basic_closedgrin_close_ni
+with charachange
+
+hi "Uh… huh."
+
+hi "That's interesting."
+
+show emi basic_grin_close_ni
+with charachange
+
+emi "Well…"
+
+"Birds outside stop chirping."
+
+"The wind dies down."
+
+"Somewhere, a man is drinking a cup of coffee. He freezes with the cup at his lips."
+
+hi "Huh."
 
 label en_delewd_E21h:
 
 
 label en_delewd_E21x:
 
+play music music_ease
+
+"The utter and absolute ridiculousness of the situation suddenly hits, and I begin laughing."
+
+show emi basic_closedhappy_close_ni
+with charachange
+
+"Emi shakes her head and begins laughing with me."
+
+show emi basic_grin_close_ni
+with charachange
+
+emi "Hey, Hisao."
+
+hi "Yeah?"
+
+show emi basic_closedgrin_close_ni
+with charachange
+
+emi "I think we should maybe stick to the basics, don't you?"
+
+show emi sad_shyblush_close_ni
+with charachange
+
+emi "I mean most of this is new to me anyway."
+
+hi "What d'you mean, 'most?'"
+
+show emi sad_grin_close_ni
+with charachange
+
+"Emi grins impishly."
+
+show emi excited_amused_close_ni
+with charachange
+
+emi "I'll never tell."
+
+"This is the most awkward conversation I have ever had."
+
+show emi basic_closedgrin_close_ni
+with charachange
+
+emi "Heh, sorry. I got a little excited earlier."
+
+scene bg school_sportsstoreroom
+with shorttimeskip
+
+"There's a frantic moment where neither of us knows where Emi's wheelchair is, but I recall it going through the door and rescue it."
+
+show emiwheel neutral_close_ni at center
+with charaenter
+
+emi "Now be more careful going through the door this time, would you?"
+
+scene bg school_nursehall
+with shorttimeskip
+
+"We make our way up to the nurse's office."
+
+scene bg school_nurseoffice
+show nurse fabulous at center
+with locationchange
+
+"The nurse is at least kind enough to not comment on the marks that Emi left on my shoulders."
+
+"Nor does he say a word about Emi's constant shifting about in her wheelchair."
+
+"Either he didn't notice, or he didn't want to notice."
+
+"All the same, I'm going to have to make sure he didn't slip cyanide into my medication for a little while."
+
+"Just to be safe."
+
+stop music fadeout 4.0
+scene bg school_dormhisao
+with locationskip
+
+"Class is in twenty minutes, so I can probably afford a nap."
+
+scene black
+with shuteye
 
 # After-school Plans (Emi Act 3 Day after shed)
 label en_delewd_E22:
@@ -934,8 +1689,6 @@ with openeyefast
 "I am suddenly catapulted into wakefulness by both the fact that the knocking still hasn't stopped and the fact that it's noon."
 
 "On a school day."
-
-"Now fully awake, I can remember why I was napping."
 
 play sound sfx_doorknock
 
@@ -1252,6 +2005,21 @@ emi "What happened, hmmm?"
 hi "Fell asleep."
 
 hi "I actually didn't wake up until lunch, and only then because Kenji woke me up."
+
+show emi excited_amused
+with charachange
+
+emi "What had you so tired, hmm?"
+
+hi "Strenuous workout this morning. Slightly uncomfortable, too."
+
+show emi basic_closedhappy
+with charachange
+
+"Emi coughs, a half-laughing, half-embarrassed noise."
+
+show emi sad_pout
+with charachange
 
 "A yawn escapes her, and I raise an eyebrow."
 
