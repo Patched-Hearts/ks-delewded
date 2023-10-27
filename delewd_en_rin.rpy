@@ -647,7 +647,7 @@ with charachange
 show ev rin_masturbate_away
 with charachange
 
-"Drooping her chin against her chest, she lets her mess of a hair hide her face from me even further."
+"She droops her chin against her chest, letting her mess of a hair hide her face from me even further."
 
 "I feel like I should either walk out or walk to her, but I can't do either."
 
@@ -1203,10 +1203,24 @@ with charachange
 
 "The silence is oppressive, terrifying."
 
+"Communication between us has suddenly been reduced to the movements of my hands and the towel, and Rin swaying her body to and fro."
+
+"My jagged breathing and her quiet breaths, trying to find a common rhythm that just is not there."
+
 "I think I can hear her heartbeats, or maybe they are just mine redoubled."
+
+"As I brush a rogue strand of hair aside from her ear, Rin suddenly presses her cheek against the back of my hand."
+
+"The contact is electric, a jolt of current surging through me."
 
 scene ev rin_wet_towel_touch
 with charachange
+
+"Whether she seeks comfort, warmth or just my touch I wouldn't know, but I can't help touching her back, caressing her soft cheek with my hand."
+
+"And with closed eyes, she kisses me, on the fingers, counting the joints with her lips…"
+
+"I am saddened beyond my expressive capability."
 
 "Here we are, a boy and girl, both in love or something like that with each other, or maybe not… and yet…"
 
@@ -1236,39 +1250,111 @@ n "So for now, all I can do is dry her up so she won't get a cold again."
 $ renpy.music.set_volume(0.2, 1.0, channel="ambient")
 $ renpy.music.set_volume(1.0, 1.0, channel="music")
 
-scene bg misc_sky
-with charachange
-show hisaowindow
-with locationchange
-
-show rinpan relaxed_nonchalant_close
+scene ev rin_wet_towel_down
 with charachange
 
 "I pet her head, trying to sort out the hair that refuses to be sorted out even when wet."
 
 "A pair of dark, glazed eyes follows my every movement."
 
+"I move automatically, without thinking even though I should; I should talk to her about this, or at least about something."
+
+"The silence is a spell, a pact that has bound us to this private world made of the dull sound of rainfall and the soft feel of her skin against my fingers."
+
+scene ev rin_wet_towel_up
+with charachange
+
+"I look to meet her silent stare that was waiting for me."
+
+"That unassuming, expectant stare seems to say that the ball is in my court."
+
+scene ev rin_wet_face_up
+with charachange
+
+"…"
+
+"What if I do this, then?"
+
+scene bg misc_sky
+with dissolve
+
+"The small kiss I place on her is enough to make Rin lose her composure, to shut her eyes."
+
+"…Is that what you want too? Would it be all right now? To take this step?"
+
+"…What if? Maybe if…"
+
+"Hazy thoughts float somewhere in the back of my unfocused mind."
+
+"Somehow, this whole situation is making it hard to think, as if my head was full of cotton fluff."
+
+"But that's all right. It seems thinking is not something we need right now."
+
 label en_delewd_R41h:
+
+$ renpy.music.play(music_heart, fadein=0.5, if_changed=True)
+
+"Guided by instinct more than rationality, I move closer."
+
+"She responds to me, to my kisses on her flesh."
+
+"This whole morning has been so unreal, like the surreal intangibility of an awakening dream."
+
+"I can't believe I am doing this, to her, now. But I am going with the flow."
+
+"Besides, the point of no return was a thousand miles ago."
+
+"I keep going, and I know she wants it too."
+
+"I keep going because it's the only possibility."
+
+stop music fadeout 8.0
+stop ambient fadeout 12.0
+
+"I seem to forget all that was meant to be, all that should be."
+
+"All I know is that she came here and… I think there was a towel at some point, too."
+
+"None of it matters, all that matters is this, what we have now."
+
+"Rin's hair smells of rain, and I realize that I'm not hearing the sound of rainfall any more."
+
+scene ev rin_pair_base_clothes
+show rp_hisao normal at truecenter
+show rp_rin normal at truecenter
+with whiteout
+
+"It's a sobering thing. The cushion that enveloped us into a reality of our own is now gone, and I realize more clearly what is happening."
+
+play music music_romance fadein 10.0
+
+show rp_hisao frown
+with charachange
 
 hi "You know, this really is not what friends should be doing."
 
 "I whisper, once again noticing how such a simple matter as talking can be overbearingly difficult at times."
 
-show rinpan relaxed_doubt_close
+show rp_rin talk
 with charachange
 
 rin "Will you stop being my friend?"
 
 "That wasn't what I meant, but her serious tone and the layers of connotations behind Rin's question give me pause."
 
+show rp_hisao smile
+with charachange
 
 hi "Nah."
+
+show rp_rin smile
+with charachange
 
 rin "I… think it might be all right. Even if you did."
 
 "I hug her and smile into her hair, understanding Rin perfectly for once."
 
-show rinpan basic_deadpanamused_close
+show rp_rin frown
 with charachange
 
 rin "You are wet."
@@ -1277,7 +1363,58 @@ rin "You are wet."
 
 "Somehow, even her statements of the obvious make me glad right now."
 
+show rp_hisao normal
+with charachange
+
 hi "You're right. I am. But that's your fault."
+
+show rp_rin normal
+with charachange
+
+rin "I want to see you."
+
+play sound sfx_rustling
+
+scene ev rin_pair_base
+with charachange
+
+"I comply, standing back to open the buttons of my shirt."
+
+"I don't notice Rin bringing her foot up between us until she starts tracing my chest with her toe."
+
+show rp_hisao frown
+with charachange
+
+"I look down to see what she's looking at…"
+
+hi "My heart…"
+
+"I reflexively flinch back, covering the scar tissue in the middle of my chest."
+
+"The shallow mark that the surgery following my heart attack left on my body has healed already but… well, it's not a particularly pretty sight if not overly repulsive either."
+
+"It's barely noticeable, but she does have an eye for detail. Is this why she said she wanted to see me?"
+
+"I had sorta forgotten about this because of all this mess with Rin, but now all the unpleasant things connected to my condition surface at once, rushing through my mind like a flash flood."
+
+show rp_rin talk
+with charachange
+
+rin "Hisao."
+
+"…"
+
+"Realizing that I might just have spoiled the mood, I stumble to explain myself."
+
+show rp_hisao normal
+with charachange
+
+hi "Ah… sorry, it's just that…"
+
+show rp_rin smile
+with charachange
+
+rin "Let me touch you."
 
 $ renpy.music.set_volume(0.1, 1.0, channel="ambient")
 $ renpy.music.set_volume(0.5, 1.0, channel="music")
@@ -1285,6 +1422,10 @@ $ renpy.music.set_volume(0.5, 1.0, channel="music")
 window hide
 nvl clear
 nvl show dissolve
+
+n "\n\nYeah, I know this is not how it should go."
+
+n "Even though Rin is right here, even though there should be no more questions, no obstacles, not this maddening feeling that something is constantly wrong…"
 
 n "The same feeling that clutched my heart yesterday makes its appearance."
 
@@ -1326,7 +1467,7 @@ window show
 
 hi "I'm sorry, you know…"
 
-show rinpan basic_lucid_close
+show rp_rin closed
 with charachange
 
 rin "Hisao, you really have to stop worrying."
@@ -1335,7 +1476,7 @@ rin "Hisao, you really have to stop worrying."
 
 "Her voice, void of its usual spaciness, scolds me softly, without an edge."
 
-show rinpan basic_deadpanamused_close
+show rp_rin smile
 with charachange
 
 rin "You really have to learn to let go."
@@ -1358,18 +1499,42 @@ rin "You really have to learn to let go."
 
 "The sight of her gentle, loving eyes seems to melt those doubts away like the last snow of winter."
 
+scene bg misc_sky
+with dissolve
+
+"She presses her head against my shoulder, seeking a place to rest herself in, leaning against me like I lean against her."
+
+rin "Let go."
+
+"Yes."
+
 rin "You should forget about stuff like future and past, it's not like you can change those kinds of things."
 
 "I wanted to say something to her, but I have lost my voice so I just mumble something unintelligible at her."
 
 rin "You should just be with me now."
 
-show rinpan relaxed_surprised_close
-with charachange
+"Maybe she understood what I wanted to say even if I didn't."
+
+rin "Come here."
+
+hi "I am here."
+
+rin "Come closer."
+
+"My entire body is thinking only in positives now so I do, hugging her more tightly."
+
+scene ev rin_pair_base
+show rp_hisao normal at truecenter
+show rp_rin talk at truecenter
+with whiteout
 
 "She looks at me in a way that I can't really begin to interpret."
 
 rin "Is this it?"
+
+show rp_hisao frown
+with charachange
 
 hi "…Huh?"
 
@@ -1377,12 +1542,35 @@ rin "You said I don't have to be alone."
 
 "Her eyes are full of an innocent, fuzzyheaded confusion that makes me chuckle a little and pet the back of her head."
 
+show rp_hisao smile
+with charachange
+
 hi "Yeah. This is what I meant."
 
 hi "That you have someone you can come to when you get soaked in a rain."
 
 hi "It means you are not alone."
 
+show rp_rin smile
+with charachange
+
 hi "If there is such a person for you."
+
+show rp_rin closed
+with charachange
+
+"She answers with a kiss."
+
+stop music fadeout 2.0
+stop ambient fadeout 2.0
+
+window hide
+
+scene white
+with Dissolve(2.0)
+
+$ suppress_window_after_timeskip = True
+
+with Pause(4.0)
 
 return
